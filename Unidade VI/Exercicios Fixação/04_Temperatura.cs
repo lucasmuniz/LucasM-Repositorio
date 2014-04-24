@@ -10,7 +10,7 @@ namespace Unidade_VI.Exercicios_Fixação
     {
         public static double mediaTemp;
         public static double mediaFinal;
-        static void Main(string[] args)
+        static void Main04(string[] args)
         {
             
             // Ler um vetor armazenando a temperatura média do dia durante um mês completo.
