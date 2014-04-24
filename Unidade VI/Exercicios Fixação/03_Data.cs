@@ -8,7 +8,7 @@ namespace Unidade_VI.Exercicios_Fixação
 {
     class _03_Data
     {
-        static void Main(string[] args)
+        static void Main03(string[] args)
         {
 
         //Crie um algoritmo que receba o dia, mês e ano de uma data de nascimento (como parâmetros de entrada do método) e
