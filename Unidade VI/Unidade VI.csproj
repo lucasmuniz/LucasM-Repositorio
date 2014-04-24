@@ -43,6 +43,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Exercicios Fixação\01_LerVetor.cs" />
+    <Compile Include="Exercicios Fixação\02_VetorConcatenacao.cs" />
+    <Compile Include="Exercicios Fixação\03_Data.cs" />
+    <Compile Include="Exercicios Fixação\04_Temperatura.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
