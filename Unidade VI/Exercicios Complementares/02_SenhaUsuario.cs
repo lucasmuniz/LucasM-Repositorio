@@ -8,7 +8,7 @@ namespace Unidade_VI.Exercicios_Complementares
 {
     class SenhaUsuario
     {
-       public static void Main(string[] args)
+       public static void Main02(string[] args)
         {
             /*2) Escreva um programa que verifique a validade de uma senha fornecida pelo usuário. A senha válida é o número
              *  NomeUsuário123. Devem ser impressas as seguintes mensagens: 
