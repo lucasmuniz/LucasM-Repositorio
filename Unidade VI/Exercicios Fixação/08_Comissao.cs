@@ -21,7 +21,7 @@ namespace Unidade_VI.Exercicios_Fixação
          */
         public static double valorVenda, comissao;
         public static string nome;
-        static void Main(string[] args)
+        static void Main08(string[] args)
         {
             Console.WriteLine("Digite o seu nome: ");
             nome = Console.ReadLine();

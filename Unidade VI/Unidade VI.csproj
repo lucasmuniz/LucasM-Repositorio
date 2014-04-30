@@ -49,6 +49,9 @@
     <Compile Include="Exercicios Fixação\05_AnoBissexto.cs" />
     <Compile Include="Exercicios Fixação\06_Consorcio.cs" />
     <Compile Include="Exercicios Fixação\07_Revendedores.cs" />
+    <Compile Include="Exercicios Fixação\08_Comissao.cs" />
+    <Compile Include="Exercicios Fixação\09_TesteMaior.cs" />
+    <Compile Include="Exercicios Fixação\10_Artigo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
