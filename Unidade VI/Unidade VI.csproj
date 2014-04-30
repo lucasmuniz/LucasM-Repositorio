@@ -42,6 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exercicios Complementares\01_Maca.cs" />
+    <Compile Include="Exercicios Complementares\02_SenhaUsuario.cs" />
+    <Compile Include="Exercicios Complementares\03_PesoIdeal.cs" />
     <Compile Include="Exercicios Fixação\01_LerVetor.cs" />
     <Compile Include="Exercicios Fixação\02_VetorConcatenacao.cs" />
     <Compile Include="Exercicios Fixação\03_Data.cs" />

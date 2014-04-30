@@ -12,7 +12,7 @@ namespace Unidade_VI.Exercicios_Fixação
         //nome, preço e percentual de desconto. Faça um algoritmo que imprima nome, 
         //preço e preço com desconto de cada artigo e o total a pagar.
 
-        static void Main(string[] args)
+        static void Main10(string[] args)
         {
             string artigo1, artigo2, artigo3, artigo4;
             double valor1, valor2, valor3, valor4,desc1,desc2,desc3,desc4,tot1,tot2,tot3,tot4,preco1,preco2,preco3,preco4;
