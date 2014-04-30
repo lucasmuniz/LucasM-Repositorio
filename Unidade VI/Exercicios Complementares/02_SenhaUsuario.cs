@@ -15,10 +15,13 @@ namespace Unidade_VI.Exercicios_Complementares
                 ACESSO PERMITIDO caso a senha seja válida. 
                 ACESSO NEGADO caso a senha seja inválida.
             */
-            string senhaTeste;
+            string parte1Senha,senhaFinal,senhaDigitada;
+            Console.WriteLine("Digite o seu nome: ");
+            parte1Senha = Console.ReadLine();
+            senhaFinal = parte1Senha + "123";
             Console.WriteLine("Digite a senha: ");
-            senhaTeste = Console.ReadLine();
-            if (senhaTeste!="Lucas123")
+            senhaDigitada = Console.ReadLine();
+            if (senhaDigitada!=senhaFinal)
             {
                 Console.WriteLine("ACESSO NEGADO");
             }
