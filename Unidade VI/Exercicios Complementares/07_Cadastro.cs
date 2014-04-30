@@ -11,7 +11,7 @@ namespace Unidade_VI.Exercicios_Complementares
         public static string nome,sair;
         public static double altura;
         public static int program;
-        public static void Main(string[] args)
+        public static void Mai07(string[] args)
         {
             /*7) Escreva um programa que leia o primeiro nome e a altura das moças inscritas em um concurso de beleza.
              * Quando for informada a palavra FIM para o nome da moça o programa deverá ser encerrado e imprimir:
