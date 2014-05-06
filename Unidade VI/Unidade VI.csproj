@@ -46,8 +46,10 @@
     <Compile Include="Exercicios Complementares\02_SenhaUsuario.cs" />
     <Compile Include="Exercicios Complementares\03_PesoIdeal.cs" />
     <Compile Include="Exercicios Complementares\04_Futebol.cs" />
-    <Compile Include="Exercicios Complementares\06_Fazendeiro.cs" />
-    <Compile Include="Exercicios Complementares\07_Cadastro.cs" />
+    <Compile Include="Exercicios Complementares\05_Fazendeiro.cs" />
+    <Compile Include="Exercicios Complementares\06_Cadastro.cs" />
+    <Compile Include="Exercicios Complementares\08_AutoresLivros.cs" />
+    <Compile Include="Exercicios Complementares\09_Buracos.cs" />
     <Compile Include="Exercicios Fixação\01_LerVetor.cs" />
     <Compile Include="Exercicios Fixação\02_VetorConcatenacao.cs" />
     <Compile Include="Exercicios Fixação\03_Data.cs" />
