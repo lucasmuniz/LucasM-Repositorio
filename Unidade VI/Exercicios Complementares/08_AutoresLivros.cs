@@ -20,24 +20,24 @@ namespace Unidade_VI.Exercicios_Complementares
          * imprima a versão formatada no estilo exemplificado acima.
          * */
         public static int numNomes;
+        public static char primeiraLetra;
         public static string primeiroNome, SegundoNome,segundoNomeUpper;
-        public static void Main08(string[] args)
-        {
+        public static void Main(string[] args)
+        {      
             Console.WriteLine("Quantos autores são?");
             numNomes = Convert.ToInt16(Console.ReadLine());
             for (int i = 0; i <= numNomes; i++)
             {
                 Console.WriteLine("Digite o primeiro nome: ");
                 primeiroNome = Console.ReadLine();
+                primeiraLetra = char.ToUpper(primeiroNome[0]);
                 Console.WriteLine("Digite o segundo nome: ");
                 SegundoNome = Console.ReadLine();
                 segundoNomeUpper=SegundoNome.ToUpper();
                 Console.WriteLine("");
-                Console.WriteLine("{0},{1}",segundoNomeUpper, primeiroNome);
+                Console.WriteLine("{0}, {1}{2}",segundoNomeUpper,primeiraLetra,primeiroNome.Substring(1));
                 Console.WriteLine("");      
             }
-
         }
-
     }
 }
