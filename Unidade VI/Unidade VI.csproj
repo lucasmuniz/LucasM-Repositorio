@@ -48,6 +48,7 @@
     <Compile Include="Exercicios Complementares\04_Futebol.cs" />
     <Compile Include="Exercicios Complementares\05_Fazendeiro.cs" />
     <Compile Include="Exercicios Complementares\06_Cadastro.cs" />
+    <Compile Include="Exercicios Complementares\07_MensalHora.cs" />
     <Compile Include="Exercicios Complementares\08_AutoresLivros.cs" />
     <Compile Include="Exercicios Complementares\09_Buracos.cs" />
     <Compile Include="Exercicios Fixação\01_LerVetor.cs" />
