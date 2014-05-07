@@ -10,6 +10,7 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
     {
         public static void Main03(string[] args)
         {
+            //============ OPERADOR LOGICO ==============
             int a;
             int geradornum;
 

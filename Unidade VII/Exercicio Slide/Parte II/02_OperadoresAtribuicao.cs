@@ -10,6 +10,7 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
     {
         public static void Main02(string[] args)
         {
+            //==================== ATRIBUIÇÃO ===============
             int a;
             Console.WriteLine("Digite um numero: ");
             a = Convert.ToInt16(Console.ReadLine());
