@@ -54,6 +54,7 @@
     <Compile Include="Exercicios Fixação\01_Produtos.cs" />
     <Compile Include="Exercicios Fixação\02_Prefeitura.cs" />
     <Compile Include="Exercicios Fixação\03_CadastroLoja.cs" />
+    <Compile Include="Exercicios Fixação\04_Anagramas.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
