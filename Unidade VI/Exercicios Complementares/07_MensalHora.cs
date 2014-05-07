@@ -10,12 +10,11 @@ namespace Exercicios_GitHub_Complementares_29_04_2014
     {
         public static void Maini(String[] args)
         {
-            /*
+        /*
         * 7) Escreva um programa que leia dados o tipo do funcionário (“H” = Horista ou “M” = Mensalista),
         * o salário por hora (horistas) ou por mês (mensalistas) e, o número de horas trabalhadas (horistas)
         * ou o valor de faltas (mensalistas), calcular o valor do salário bruto.
         */
-
             string tipo_funcionario;
             double salario_hora;
             double salario_mes;
@@ -23,7 +22,6 @@ namespace Exercicios_GitHub_Complementares_29_04_2014
             int faltas;
             double salario_bruto;
             double valor_falta;
-
             Console.Write(@"Tipo do funcionário: 'H'(HORISTA) - 'M'(MENSALISTA) -> ");
             tipo_funcionario = Console.ReadLine();
 
@@ -34,7 +32,6 @@ namespace Exercicios_GitHub_Complementares_29_04_2014
                 salario_hora = double.Parse(Console.ReadLine());
                 Console.Write("Horas trabalhadas? ");
                 horas_trabalhadas = int.Parse(Console.ReadLine());
-
                 salario_bruto = horas_trabalhadas * salario_hora;
                 Console.WriteLine("Salário bruto: " + salario_bruto);
             }
@@ -47,7 +44,6 @@ namespace Exercicios_GitHub_Complementares_29_04_2014
                 faltas = int.Parse(Console.ReadLine());
                 Console.Write("Qual o valor da falta? ");
                 valor_falta = double.Parse(Console.ReadLine());
-
                 salario_bruto = salario_mes - (faltas * valor_falta);
                 Console.WriteLine("Salário bruto: " + salario_bruto);
             }

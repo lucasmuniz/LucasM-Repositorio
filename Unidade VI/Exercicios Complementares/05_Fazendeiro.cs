@@ -65,10 +65,6 @@ namespace Unidade_VI.Exercicios_Complementares
                     Console.WriteLine("O salario do empregado {0} é de R${1}\n",id,salarioCaixas);
                 }
             }
-            
-
-            
-
         }
     }
 }

@@ -17,7 +17,7 @@ namespace Unidade_VI.Exercicios_Complementares
              * Quando for informada a palavra FIM para o nome da moça o programa deverá ser encerrado e imprimir:
              * o nome e a altura da moça mais alta e o número de moças no concurso. 
              * Considere que todas as moças possuem altura diferente
-             * */
+             */
             program = 1;
             while (program==1)
             {
@@ -37,13 +37,8 @@ namespace Unidade_VI.Exercicios_Complementares
                     Console.WriteLine("A mais alta é: {0} e tem uma altura de : {1} ", nomeMaisAlta, maisAlta);
                     program = 0;
                 }
-
-
-            }
-            
-
+            }          
             Console.ReadKey();
-
         }
     }
 }

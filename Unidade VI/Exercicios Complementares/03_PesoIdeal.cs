@@ -15,7 +15,7 @@ namespace Unidade_VI.Exercicios_Complementares
              *  de uma pessoa, construa um programa que calcule e imprima seu peso ideal, utilizando as seguintes fórmulas:  
                 - para homens : (72.7 * altura) – 58 
                 - para mulheres : (62.1 * altura) – 44.7 
-              * */
+               */
             string sexo;
             Console.WriteLine("======== PESO IDEAL =======");
             Console.WriteLine("1 - Masculino");
