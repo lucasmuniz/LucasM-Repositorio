@@ -10,7 +10,9 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
     {
         public static void Main02(string[] args)
         {
-            int a = 10;
+            int a;
+            Console.WriteLine("Digite um numero: ");
+            a = Convert.ToInt16(Console.ReadLine());
 
             a *= 2;
             Console.WriteLine("*= : {0}",a);
@@ -25,8 +27,7 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
             a--;
             Console.WriteLine("-- : {0}", a);
             a++;
-            Console.WriteLine("++ : {0}", a);
-            
+            Console.WriteLine("++ : {0}", a);           
             Console.ReadKey();
         }
     }
