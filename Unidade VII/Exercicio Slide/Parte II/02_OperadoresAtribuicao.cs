@@ -11,12 +11,22 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
         public static void Main02(string[] args)
         {
             int a = 10;
-            Console.WriteLine(a++);
-            Console.WriteLine(a--);
-            Console.WriteLine(a+=1);
-            Console.WriteLine(a-=1);
-            Console.WriteLine(a%=2);
-            Console.WriteLine(a/=2);
+
+            a *= 2;
+            Console.WriteLine("*= : {0}",a);
+            a /= 2;
+            Console.WriteLine("/= : {0}", a);
+            a %= 2;
+            Console.WriteLine("%= : {0}", a);
+            a -= 2;
+            Console.WriteLine("-= : {0}", a);
+            a += 1;
+            Console.WriteLine("+= : {0}", a);
+            a--;
+            Console.WriteLine("-- : {0}", a);
+            a++;
+            Console.WriteLine("++ : {0}", a);
+            
             Console.ReadKey();
         }
     }
