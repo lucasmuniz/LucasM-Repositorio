@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CEB1C696-A3D4-432C-A45B-09DD24406DB0}</ProjectGuid>
+    <ProjectGuid>{EE2310F8-F153-4D25-BC92-FB3796DF910C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MedindoFebre_05</RootNamespace>
-    <AssemblyName>MedindoFebre_05</AssemblyName>
+    <RootNamespace>Avaliacoes</RootNamespace>
+    <AssemblyName>Avaliacoes</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Prova_05.cs" />
+    <Compile Include="Medindo a Febre 05\Medindo_A_Febre_05.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

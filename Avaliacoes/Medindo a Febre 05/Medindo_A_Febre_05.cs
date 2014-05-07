@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MedindoFebre_05
+namespace Avaliacoes.Medindo_a_Febre_05
 {
-    class Prova_05
+    class Medindo_A_Febre_05
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
 
         }
