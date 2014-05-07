@@ -42,9 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exercicio Slide\01_OperadoresAritmeticos.cs" />
-    <Compile Include="Exercicio Slide\02_Casting.cs" />
-    <Compile Include="Exercicio Slide\03_Concatenacao.cs" />
+    <Compile Include="Exercicio Slide\Parte II\01_OperadoresRelacionais.cs" />
+    <Compile Include="Exercicio Slide\Parte II\02_OperadoresAtribuicao.cs" />
+    <Compile Include="Exercicio Slide\Parte II\03_OperadoresLogicos.cs" />
+    <Compile Include="Exercicio Slide\Parte I\01_OperadoresAritmeticos.cs" />
+    <Compile Include="Exercicio Slide\Parte I\02_Casting.cs" />
+    <Compile Include="Exercicio Slide\Parte I\03_Concatenacao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
