@@ -12,7 +12,6 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
         {
             //Operadores Relacionais.
             int num = 5;
-
             if (num>5)
             {
                 Console.WriteLine("Maior que 5");
