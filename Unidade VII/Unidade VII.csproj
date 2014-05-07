@@ -51,6 +51,7 @@
     <Compile Include="Exercicio Slide\Parte I\01_OperadoresAritmeticos.cs" />
     <Compile Include="Exercicio Slide\Parte I\02_Casting.cs" />
     <Compile Include="Exercicio Slide\Parte I\03_Concatenacao.cs" />
+    <Compile Include="Exercicios Fixação\01_Produtos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

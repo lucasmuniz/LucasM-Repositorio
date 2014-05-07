@@ -8,7 +8,7 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
 {
     class _05_Negacao
     {
-        public static void Main(string[] args)
+        public static void Main05(string[] args)
         {
             //============ OPERADOR DE NEGAÇÃO ============
             int a = 50;
