@@ -9,7 +9,7 @@ namespace Unidade_VII.Exercicios_Fixação
     class _01_Produtos
     {
         public static double media_Aritmetica, codigo_Produto, maior_Preco=0,valor_Produto,soma_Todos;
-        public static void Main(string[] args)
+        public static void Main01(string[] args)
         {
             /*1) Faça um algoritmo para ler o código e o preço de 15 produtos, calcular e escrever: 
             - o maior preço lido 
