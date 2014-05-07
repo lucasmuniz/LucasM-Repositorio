@@ -53,6 +53,7 @@
     <Compile Include="Exercicio Slide\Parte I\03_Concatenacao.cs" />
     <Compile Include="Exercicios Fixação\01_Produtos.cs" />
     <Compile Include="Exercicios Fixação\02_Prefeitura.cs" />
+    <Compile Include="Exercicios Fixação\03_CadastroLoja.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
