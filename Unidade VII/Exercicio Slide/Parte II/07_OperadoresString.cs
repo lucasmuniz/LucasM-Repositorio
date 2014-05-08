@@ -8,7 +8,7 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
 {
     class _07_OperadoresString
     {
-        public static void Main(string[] args)
+        public static void Main07(string[] args)
         {
             //=========== DESCOBRE A QUANTIDADE DE CARACTERE DA STRING ===========
             /*
