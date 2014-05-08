@@ -10,7 +10,7 @@ namespace Unidade_VII.Exercicios_Fixação
     {
         
         
-           public static void Main(string[] args)
+           public static void Main04(string[] args)
         {
 
         }

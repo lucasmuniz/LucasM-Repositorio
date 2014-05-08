@@ -10,7 +10,7 @@ namespace Unidade_VII.Exercicios_Fixação
     {
         public static int qntMercadoria;
         public static double valorMercadoria, valorTotal,mediaValores;
-        public static void Main(string[]args)
+        public static void Main03(string[]args)
         {
             /*Uma loja está levantando o valor total de todas as mercadorias em estoque. Escreva um algoritmo que 
               permita a entrada das seguintes informações: 

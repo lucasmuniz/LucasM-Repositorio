@@ -48,6 +48,7 @@
     <Compile Include="Exercicio Slide\Parte II\03_OperadoresLogicos.cs" />
     <Compile Include="Exercicio Slide\Parte II\04_OperadorTernario.cs" />
     <Compile Include="Exercicio Slide\Parte II\06_IncremDecrem.cs" />
+    <Compile Include="Exercicio Slide\Parte II\07_OperadoresString.cs" />
     <Compile Include="Exercicio Slide\Parte I\01_OperadoresAritmeticos.cs" />
     <Compile Include="Exercicio Slide\Parte I\02_Casting.cs" />
     <Compile Include="Exercicio Slide\Parte I\03_Concatenacao.cs" />
