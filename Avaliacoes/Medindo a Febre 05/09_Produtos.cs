@@ -11,7 +11,7 @@ namespace Avaliacoes.Medindo_a_Febre_05
         public static string nomeProduto;
         public static double  precoUnitario, valorTotal, valorDoDesconto, valorFinal;
         public static int qntAdquirida;
-        public static void Main09(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Digite o nome do produto: ");
             nomeProduto = Console.ReadLine();

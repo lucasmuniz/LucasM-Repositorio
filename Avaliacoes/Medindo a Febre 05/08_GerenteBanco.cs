@@ -14,7 +14,7 @@ namespace Avaliacoes.Medindo_a_Febre_05
            
             for (int i = 0; i <= 9; i++)
             {
-                Console.WriteLine("Digite o horário que vôcê entrou no banco: USE FORMATO 24HRS ");
+                Console.WriteLine("Digite o horário que você entrou no banco: USE FORMATO 24HRS ");
                 hora = Convert.ToInt32(Console.ReadLine());
                 if (hora >= 10 && hora <= 16)
                 {

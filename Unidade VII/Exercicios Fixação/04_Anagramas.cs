@@ -4,7 +4,7 @@ using System.IO;
 
 class _04_Anagrams
 {
-    public static void Main(string[]args)
+    public static void Main04(string[]args)
     {
        
     }
