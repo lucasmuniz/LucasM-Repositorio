@@ -42,13 +42,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exercicio Slide\Controle de Fluxo\01_NotaAluno.cs" />
+    <Compile Include="Exercicio Slide\Controle de Fluxo\02_VerificaValorProduto.cs" />
+    <Compile Include="Exercicio Slide\Controle de Fluxo\03_EscolhaCaminho.cs" />
+    <Compile Include="Exercicio Slide\Controle de Fluxo\04_VesteRoupa.cs" />
+    <Compile Include="Exercicio Slide\Controle de Fluxo\05_ADividindoPorB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Exercicio Slide\" />
     <Folder Include="Exercicios Fixação\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
