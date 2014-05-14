@@ -55,14 +55,13 @@
     <Compile Include="Exercicio Slide\Instrucoes Repeticoes\03_Imprime100ExcetoMultiplo3.cs" />
     <Compile Include="Exercicio Slide\Instrucoes Repeticoes\04_DivideMaiorInteiro.cs" />
     <Compile Include="Exercicio Slide\Instrucoes Repeticoes\05_GeradorIngresso.cs" />
+    <Compile Include="Exercicios Complementares\01_NumerosAleatorios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Exercicios Fixação\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
