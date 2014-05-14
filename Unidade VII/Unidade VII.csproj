@@ -57,6 +57,7 @@
     <Compile Include="Exercicios Fixação\03_CadastroLoja.cs" />
     <Compile Include="Exercicios Fixação\04_Anagramas.cs" />
     <Compile Include="Exercicios Fixação\05_Piramide.cs" />
+    <Compile Include="Exercicios Fixação\06_LançamentoDados.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
