@@ -47,6 +47,8 @@
     <Compile Include="Exercicio Slide\Controle de Fluxo\03_EscolhaCaminho.cs" />
     <Compile Include="Exercicio Slide\Controle de Fluxo\04_VesteRoupa.cs" />
     <Compile Include="Exercicio Slide\Controle de Fluxo\05_ADividindoPorB.cs" />
+    <Compile Include="Exercicio Slide\Controle de Fluxo\06_LançamentoDados.cs" />
+    <Compile Include="Exercicio Slide\Controle de Fluxo\07_LançamentoDadosImpares.cs" />
     <Compile Include="Exercicio Slide\Instrucoes Repeticoes\01_Repita5Vezes.cs" />
     <Compile Include="Exercicio Slide\Instrucoes Repeticoes\02_Imprime100.cs" />
     <Compile Include="Exercicio Slide\Instrucoes Repeticoes\03_Imprime100ExcetoMultiplo3.cs" />

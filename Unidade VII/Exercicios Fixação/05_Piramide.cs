@@ -10,7 +10,7 @@ namespace Unidade_VII.Exercicios_Fixação
     {
 
         public static string[] Vetor;
-        public static void Main(string[] args)
+        public static void Main05(string[] args)
         {
            
             /* Faça o programa que apresenta a seguinte saída, perguntando ao usuário o número máximo (no exemplo, 9). 

@@ -14,7 +14,7 @@ namespace Unidade_VII.Exercicios_Fixação
              * Depois, mostre quantas vezes cada valor foi conseguido. Dica: use um vetor de contadores(1-6) e 
              * uma função para gerar números aleatórios, simulando os lançamentos dos dados.
             */
-
+         
         }
     }
 }
