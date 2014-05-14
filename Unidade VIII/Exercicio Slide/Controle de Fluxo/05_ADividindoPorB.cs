@@ -8,7 +8,7 @@ namespace Unidade_VIII.Exercicio_Slide.Controle_de_Fluxo
 {
     class _05_ADividindoPorB
     {
-        public static void Main(string[] args)
+        public static void Main05(string[] args)
         {
             Console.Write("Digite o valor de A: ");
             int a = Convert.ToInt16(Console.ReadLine());
