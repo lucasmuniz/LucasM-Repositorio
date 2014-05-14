@@ -9,7 +9,7 @@ namespace Unidade_VIII.Exercicio_Slide.Controle_de_Fluxo
     class _07_LançamentoDadosImpares
     {
         public static int num,somaNum;
-        public static void Main(string[]args)
+        public static void Main07(string[]args)
         
         {
             Random gerador = new Random();
@@ -22,7 +22,7 @@ namespace Unidade_VIII.Exercicio_Slide.Controle_de_Fluxo
                 { 
                     continue;
                 }
-                somaNum += num;
+                somaNum += num; //somaNum = SomaNum + num;
                 if (somaNum>9)
                 {
                     Console.WriteLine("\n");
