@@ -4,7 +4,7 @@ namespace Unidade_VIII.Exercicios_Complementares
 {
     internal class _01_NumerosAleatorios
     {
-        public static void Main(string[] args)
+        public static void Main01(string[] args)
         {
             /* Crie um programa em C# que gere dois números aleatórios e exiba o valor desses números.
                Além disso, esse programa deve exibir a mensagem “Primeiro > Segundo” se o primeiro número for

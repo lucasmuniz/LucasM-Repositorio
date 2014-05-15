@@ -42,9 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Medindo a Febre 05\07_IdadeAdulta.cs" />
-    <Compile Include="Medindo a Febre 05\08_GerenteBanco.cs" />
-    <Compile Include="Medindo a Febre 05\09_Produtos.cs" />
+    <Compile Include="Medindo Febre 05\07_IdadeAdulta.cs" />
+    <Compile Include="Medindo Febre 05\08_GerenteBanco.cs" />
+    <Compile Include="Medindo Febre 05\09_Produtos.cs" />
+    <Compile Include="Medindo Febre 06\12_AulasAluno.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
