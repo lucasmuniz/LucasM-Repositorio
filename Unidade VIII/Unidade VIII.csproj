@@ -59,6 +59,8 @@
     <Compile Include="Exercicios Complementares\02_Estrelinhas.cs" />
     <Compile Include="Exercicios Complementares\03_Estacionamento.cs" />
     <Compile Include="Exercicios Complementares\04_Tabuada.cs" />
+    <Compile Include="Exercicios Complementares\05_LançamentoDeDados.cs" />
+    <Compile Include="Exercicios Complementares\06_NumAleatorio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

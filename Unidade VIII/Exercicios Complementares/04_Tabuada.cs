@@ -4,7 +4,7 @@ namespace Unidade_VIII.Exercicios_Complementares
 {
     internal class _04_Tabuada
     {
-        public static void Main(string[] args)
+        public static void Main04(string[] args)
         {
             /*Escreva um programa em C# que exiba no terminal a tabuada dos números de 1 a 10 de acordo com o padrão abaixo.
             1x1 = 1
