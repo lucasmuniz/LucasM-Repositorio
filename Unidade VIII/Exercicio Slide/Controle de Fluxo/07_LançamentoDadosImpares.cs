@@ -1,14 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Unidade_VIII.Exercicio_Slide.Controle_de_Fluxo
 {
-    class _07_LançamentoDadosImpares
+    internal class _07_LançamentoDadosImpares
     {
         public static int num, somaNum;
+
         public static void Main07(string[] args)
         {
             Random gerador = new Random();

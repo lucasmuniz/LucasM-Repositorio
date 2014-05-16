@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Unidade_VIII.Exercicio_Slide.Controle_de_Fluxo
 {
-    class _04_VesteRoupa
+    internal class _04_VesteRoupa
     {
         public static void Main04(string[] args)
         {

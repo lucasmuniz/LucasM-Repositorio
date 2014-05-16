@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Unidade_VIII.Exercicio_Slide.Controle_de_Fluxo
 {
-    class _05_ADividindoPorB
+    internal class _05_ADividindoPorB
     {
         public static void Main05(string[] args)
         {
@@ -15,7 +11,7 @@ namespace Unidade_VIII.Exercicio_Slide.Controle_de_Fluxo
             Console.Write("Digite o valor de B:");
             int b = Convert.ToInt16(Console.ReadLine());
 
-            if (a%b==0)
+            if (a % b == 0)
             {
                 Console.WriteLine("É DIVISIVEL");
             }

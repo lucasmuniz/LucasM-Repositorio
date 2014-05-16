@@ -56,6 +56,9 @@
     <Compile Include="Exercicio Slide\Instrucoes Repeticoes\04_DivideMaiorInteiro.cs" />
     <Compile Include="Exercicio Slide\Instrucoes Repeticoes\05_GeradorIngresso.cs" />
     <Compile Include="Exercicios Complementares\01_NumerosAleatorios.cs" />
+    <Compile Include="Exercicios Complementares\02_Estrelinhas.cs" />
+    <Compile Include="Exercicios Complementares\03_Estacionamento.cs" />
+    <Compile Include="Exercicios Complementares\04_Tabuada.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
