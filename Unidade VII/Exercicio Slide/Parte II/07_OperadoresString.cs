@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Unidade_VII.Exercicio_Slide.Parte_II
+﻿namespace Unidade_VII.Exercicio_Slide.Parte_II
 {
-    class _07_OperadoresString
+    internal class _07_OperadoresString
     {
         public static void Main07(string[] args)
         {
@@ -18,10 +12,8 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
             Console.WriteLine(lenght);
 
             Console.ReadKey();
-            
+
             */
-
-
 
             //========= RECUPERAR UM CARACTERE DE ACORDO COM A POSICAO DA STRING ===========
             /*
@@ -29,9 +21,8 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
             char d = s[0];
              *
             Console.WriteLine(d); //LETRA N
-             
-            */
 
+            */
 
             //========= VERIFICAR SE O CARACTERE ESTÁ CONTIDO OU NAO NA STRING ============
             /*
@@ -47,9 +38,8 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
               Console.WriteLine(resultado2);
 
               Console.ReadKey();
-            
-           */
 
+           */
 
             //======== VERIFICAR SE O CARACTER TERMINA COM A STRING DO PARAMETRO ===========
             /*
@@ -60,7 +50,6 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
             Console.ReadKey();
             */
 
-
             //======= VERIFICA SE COMEÇA COM O CARACTERE ==============
             /*
             string s = "Apostila de C#";
@@ -69,7 +58,6 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
 
             Console.ReadKey();
             */
-
 
             //======= PODEMOS EXTRAIR UM TRECHO DE UMA STRING ========
             /*
@@ -85,10 +73,9 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
             Console.WriteLine(s3);
             Console.WriteLine(s4);
             Console.WriteLine(s5);
-               
+
             Console.ReadKey();
             */
-
 
             //=========== ELIMINAR O ESPAÇO EM BRANCO DAS EXTREMIDADES==========
             /*
@@ -101,7 +88,7 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
 
             //======== DATAS ===================
             /*
-             
+
             DateTime dt = new DateTime(2010, 08, 27);
             // Acrescentando 140 dias
             dt = dt.AddDays(140);
@@ -113,12 +100,8 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
             dt = dt.AddSeconds(20);
 
             Console.ReadKey();
-             
+
            */
-            
-        
-
-
         }
     }
 }

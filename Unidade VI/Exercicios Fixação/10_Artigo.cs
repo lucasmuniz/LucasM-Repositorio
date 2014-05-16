@@ -1,21 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Unidade_VI.Exercicios_Fixação
 {
-    class _10_Artigo
+    internal class _10_Artigo
     {
-        // Uma pessoa comprou quatro artigos em uma loja. Para cada artigo, tem-se 
-        //nome, preço e percentual de desconto. Faça um algoritmo que imprima nome, 
+        // Uma pessoa comprou quatro artigos em uma loja. Para cada artigo, tem-se
+        //nome, preço e percentual de desconto. Faça um algoritmo que imprima nome,
         //preço e preço com desconto de cada artigo e o total a pagar.
 
-        static void Main10(string[] args)
+        private static void Main10(string[] args)
         {
             string artigo1, artigo2, artigo3, artigo4;
-            double valor1, valor2, valor3, valor4,desc1,desc2,desc3,desc4,tot1,tot2,tot3,tot4,preco1,preco2,preco3,preco4;
+            double valor1, valor2, valor3, valor4, desc1, desc2, desc3, desc4, tot1, tot2, tot3, tot4, preco1, preco2, preco3, preco4;
             Console.WriteLine("Informe o nome do artigo 1: ");
             artigo1 = Console.ReadLine();
             Console.WriteLine("Informe o valor do artigo 1: ");
@@ -52,14 +48,12 @@ namespace Unidade_VI.Exercicios_Fixação
             tot4 = valor4 * desc4;
             preco4 = valor4 - tot4;
 
-            Console.WriteLine("O valor do artigo 1: {0}",preco1);
+            Console.WriteLine("O valor do artigo 1: {0}", preco1);
             Console.WriteLine("O valor do artigo 2: {0}", preco2);
             Console.WriteLine("O valor do artigo 3: {0}", preco3);
             Console.WriteLine("O valor do artigo 4: {0}", preco4);
 
-
             Console.ReadKey();
         }
-
     }
 }

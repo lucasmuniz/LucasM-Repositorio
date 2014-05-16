@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Unidade_VII.Exercicio_Slide.Parte_II
 {
-    class _04_OperadorTernario
+    internal class _04_OperadorTernario
     {
         public static void Main04(string[] args)
         {
@@ -16,7 +12,6 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
             nota = Convert.ToDouble(Console.ReadLine());
             string resultado = nota >= 0.5 ? "aprovado" : "reprovado";
             Console.WriteLine(resultado);
-
 
             //====================== EXEMPLO 2 =====================
 

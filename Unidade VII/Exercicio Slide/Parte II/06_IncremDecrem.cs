@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Unidade_VII.Exercicio_Slide.Parte_II
 {
-    class _06_IncremDecrem
+    internal class _06_IncremDecrem
     {
-        public static void Main06(string [] args)
+        public static void Main06(string[] args)
         {
             //================= PÓS E PRÉ INCREMENTO ===============
 
@@ -29,7 +25,6 @@ namespace Unidade_VII.Exercicio_Slide.Parte_II
             Console.WriteLine("--l:{0}", j);
             m--;
             Console.WriteLine("m--:{0}", j);
-
 
             Console.ReadKey();
         }

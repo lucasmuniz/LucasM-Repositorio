@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
 
-class _04_Anagrams
+internal class _04_Anagrams
 {
-    public static void Main04(string[]args)
+    public static void Main04(string[] args)
     {
         string biro = "biro";
 
@@ -36,6 +34,5 @@ class _04_Anagrams
         Console.Write("{0}{1}{2}{3} ", biro[3].ToString(), biro[2].ToString(), biro[0].ToString(), biro[1].ToString()); //orbi
         Console.Write("{0}{1}{2}{3}", biro[3].ToString(), biro[2].ToString(), biro[1].ToString(), biro[0].ToString()); //orib
         Console.ReadKey();
-       
     }
 }
