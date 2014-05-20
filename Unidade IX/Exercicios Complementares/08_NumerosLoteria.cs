@@ -38,6 +38,7 @@ namespace Unidade_IX.Exercicios_Complementares
             Console.WriteLine("");
             Console.WriteLine("========= RESULTADOS ===========");
             Console.WriteLine("Total de acertos: {0}", contAcertos);
+            Console.WriteLine("\n");
             Console.WriteLine("Gabarito      |    Seu jogo");
 
             for (int i = 0; i < 3; i++)
