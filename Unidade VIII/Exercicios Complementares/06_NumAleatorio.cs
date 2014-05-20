@@ -4,7 +4,7 @@ namespace Unidade_VIII.Exercicios_Complementares
 {
     internal class _06_NumAleatorio
     {
-        public static void Main(string[] args)
+        public static void Main6(string[] args)
         {
             /*Crie um programa em C# que gere e exiba no terminal um número aleatório.
              Além disso, esse programa deve contabilizar a quantidade de dígitos “1” do número aleatório e
