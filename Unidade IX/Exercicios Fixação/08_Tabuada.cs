@@ -7,7 +7,7 @@ namespace ConsoleApplication1
         //Na pasta arrays, crie um arquivo chamado Tabuada.cs. Implemente um programa em C# que armazene números inteiros em um array
         //de arrays. Ao final, exiba no terminal esses valores.
 
-        private static void Main(string[] args)
+        private static void Main8(string[] args)
         {
             int[,] valores = new int[10, 10];
 
@@ -23,7 +23,6 @@ namespace ConsoleApplication1
                     valores[i, j] = i * j;
                     Console.WriteLine("{0}x{1} = {2}", i, j, valores[i, j]);
                 }
-                
             }
 
             Console.ReadKey();

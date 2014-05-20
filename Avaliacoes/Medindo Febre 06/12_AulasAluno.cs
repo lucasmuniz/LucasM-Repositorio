@@ -51,11 +51,12 @@ namespace Avaliacoes.Medindo_Febre_06
                         Console.WriteLine("Voce foi aprovado com média: {0}", MediaAritmetica.ToString("##.##"));
                         Console.WriteLine("Compareceu {0} aulas.\n", aulasComparecidas);
                     }
+                    else if (aulasComparecidas < 40 || MediaAritmetica < 6.0)
+                    {
+                        Reprovado++;
+                    }
                 }
-                else if (aulasComparecidas < 40 || MediaAritmetica < 6.0)
-                {
-                    Reprovado++;
-                }
+                
             }
             MediaDaTurma = TotalDeNotas / 100;
             Console.WriteLine("\n");
