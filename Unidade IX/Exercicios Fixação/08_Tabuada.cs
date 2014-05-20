@@ -7,18 +7,18 @@ namespace ConsoleApplication1
         //Na pasta arrays, crie um arquivo chamado Tabuada.cs. Implemente um programa em C# que armazene números inteiros em um array
         //de arrays. Ao final, exiba no terminal esses valores.
 
-        private static void Main8(string[] args)
+        private static void Main(string[] args)
         {
-            int[,] valores = new int[10, 10];
+            int[,] valores = new int[11, 11];
 
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i <= 10; i++)
             {
                 Console.WriteLine(" ");
                 Console.WriteLine("--------------------- ");
                 Console.WriteLine("Tabuada do {0} ", i);
                 Console.WriteLine("--------------------- ");
                 Console.WriteLine(" ");
-                for (int j = 0; j < 10; j++)
+                for (int j = 0; j <= 10; j++)
                 {
                     valores[i, j] = i * j;
                     Console.WriteLine("{0}x{1} = {2}", i, j, valores[i, j]);
