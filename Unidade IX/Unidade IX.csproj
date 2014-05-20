@@ -45,6 +45,7 @@
     <Compile Include="Exercicios Complementares\02_VagasEstacionamento.cs" />
     <Compile Include="Exercicios Complementares\03_MenorElemento.cs" />
     <Compile Include="Exercicios Complementares\04_TrocaValoresVetor.cs" />
+    <Compile Include="Exercicios Complementares\05_AlunosReproAprov.cs" />
     <Compile Include="Exercicios Fixação\01_SequenciaQualquer.cs" />
     <Compile Include="Exercicios Fixação\02_SequenciaCrescente.cs" />
     <Compile Include="Exercicios Fixação\03_SequenciaDecrescente.cs" />
