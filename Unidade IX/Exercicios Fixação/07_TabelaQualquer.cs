@@ -7,7 +7,7 @@ namespace ConsoleApplication1
         //Na pasta arrays, crie um arquivo chamado TabelaQualquer.cs. Implemente um programa em C# que armazene números inteiros em uma array de arrays.
         //Ao final, exiba no terminal esses valores.
 
-        private static void Main(string[] args)
+        private static void Main7(string[] args)
         {
             int[,] valores = new int[3, 2];
 

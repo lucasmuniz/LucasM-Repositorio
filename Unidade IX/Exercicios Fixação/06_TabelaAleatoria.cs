@@ -4,7 +4,7 @@ namespace Unidade_IX.Exercicios_Fixação
 {
     internal class _06_TabelaAleatoria
     {
-        public static void Main6(string[] args)
+        public static void Main(string[] args)
         {
             Random gerador = new Random();
             int[,] tabela = new int[3, 3];
