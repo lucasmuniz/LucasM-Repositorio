@@ -4,7 +4,7 @@ namespace Unidade_IX.Exercicios_Complementares
 {
     internal class _01_GabaritoProva
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             /* Considere um programa de computador que corrige provas de múltipla escolha. Esse programa deve armazenar
              em um array o gabarito de uma prova. Implemente um programa em C# que gere aleatoriamente o gabarito de uma
