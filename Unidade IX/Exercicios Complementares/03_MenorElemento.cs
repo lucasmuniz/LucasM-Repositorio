@@ -4,7 +4,7 @@ namespace Unidade_IX.Exercicios_Complementares
 {
     internal class _03_MenorElemento
     {
-        public static void Main(string[] args)
+        public static void Main03(string[] args)
         {
             /*Escreva um algoritmo que leia um vetor de 7 elementos inteiros. Encontre e mostre o menor elemento
              e sua posição no vetor.*/
