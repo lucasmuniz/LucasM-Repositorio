@@ -47,6 +47,8 @@
     <Compile Include="Exercicios Complementares\04_TrocaValoresVetor.cs" />
     <Compile Include="Exercicios Complementares\05_AlunosReproAprov.cs" />
     <Compile Include="Exercicios Complementares\06_Locadora.cs" />
+    <Compile Include="Exercicios Complementares\07_SomaVetores.cs" />
+    <Compile Include="Exercicios Complementares\08_NumerosLoteria.cs" />
     <Compile Include="Exercicios Fixação\01_SequenciaQualquer.cs" />
     <Compile Include="Exercicios Fixação\02_SequenciaCrescente.cs" />
     <Compile Include="Exercicios Fixação\03_SequenciaDecrescente.cs" />
