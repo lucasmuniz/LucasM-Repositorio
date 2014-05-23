@@ -45,6 +45,7 @@
     <Compile Include="Exercicios Fixação\02_JuroComposto.cs" />
     <Compile Include="Exercicios Fixação\03_ImpostoDeRenda.cs" />
     <Compile Include="Exercicios Fixação\04_IndiceDeMassaCorporal.cs" />
+    <Compile Include="Exercicios Fixação\05_NumerosArray.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
