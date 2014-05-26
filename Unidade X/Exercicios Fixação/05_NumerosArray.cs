@@ -7,7 +7,7 @@ namespace Unidade_X.Exercicios_Fixação
         public static Random gerador = new Random();
         public static int[] array = new int[50];
 
-        public static void Main(string[] args)
+        public static void Main05(string[] args)
         {
             /*Implemente um programa em C# definindo um método que preencha um array com números inteiros aleatórios no
              * intervalo de 0 a 99 e outro que exiba no terminal os valores armazenados em um array.*/

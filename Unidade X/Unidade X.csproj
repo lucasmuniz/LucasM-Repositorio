@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exercicios Complementares\01_AnoBissexto.cs" />
+    <Compile Include="Exercicios Complementares\02_DataValida.cs" />
     <Compile Include="Exercicios Fixação\01_ConsumoCombustivel.cs" />
     <Compile Include="Exercicios Fixação\02_JuroComposto.cs" />
     <Compile Include="Exercicios Fixação\03_ImpostoDeRenda.cs" />
@@ -51,9 +53,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Exercicios Complementares\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
