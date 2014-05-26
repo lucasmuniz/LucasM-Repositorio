@@ -44,6 +44,7 @@
     <Compile Include="Exercicios Complementares\01_AnoBissexto.cs" />
     <Compile Include="Exercicios Complementares\02_DataValida.cs" />
     <Compile Include="Exercicios Complementares\03_CadastroIdades.cs" />
+    <Compile Include="Exercicios Complementares\04_Tabuada.cs" />
     <Compile Include="Exercicios Fixação\01_ConsumoCombustivel.cs" />
     <Compile Include="Exercicios Fixação\02_JuroComposto.cs" />
     <Compile Include="Exercicios Fixação\03_ImpostoDeRenda.cs" />

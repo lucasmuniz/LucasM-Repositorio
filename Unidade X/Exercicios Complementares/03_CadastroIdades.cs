@@ -6,7 +6,7 @@ namespace Unidade_X.Exercicios_Complementares
     {
         public static int SomaIdades;
 
-        public static void Main(string[] args)
+        public static void Main03(string[] args)
         {
             /*3) Implemente um método que verifique a idade de 20 pessoas, um para comparar a maior idade, um para menor idade,
              * outro para fazer a média de todas as 20 idades e por fim imprimir todos esses dados. (5 métodos)*/
