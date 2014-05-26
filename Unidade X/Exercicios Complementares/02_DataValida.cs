@@ -4,7 +4,7 @@ namespace Unidade_VI.Exercicios_Fixação
 {
     internal class _02_DataValida
     {
-        private static void Main(string[] args)
+        private static void Main02(string[] args)
         {
             /*2) Implemente um método que verifica se uma determinada data é válida ou não.
              * Lembre-se que Janeiro, Março, Maio, Julho, Agosto, Outubro e Dezembro possuem 31 dias; Abril, Junho, Setembro e
