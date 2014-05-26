@@ -4,7 +4,7 @@ namespace Unidade_X.Exercicios_Complementares
 {
     internal class _04_Tabuada
     {
-        public static void Main(string[] args)
+        public static void Main04(string[] args)
         {
             /*4) Faça um método chamado tabuada que passa por parâmetro o número da tabuada. Por exemplo se passar 4 por parâmetro ela deve retornar a
              * tabuada completa do 4.*/
