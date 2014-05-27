@@ -46,11 +46,13 @@
     <Compile Include="Medindo Febre 05\08_GerenteBanco.cs" />
     <Compile Include="Medindo Febre 05\09_Produtos.cs" />
     <Compile Include="Medindo Febre 06\12_AulasAluno.cs" />
+    <Compile Include="Medindo Febre 07\13_Cadastro.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

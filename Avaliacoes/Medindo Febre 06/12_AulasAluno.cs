@@ -6,7 +6,7 @@ namespace Avaliacoes.Medindo_Febre_06
     {
         public static double MediaDaTurma, TotalDeNotas, Reprovado, Aprovado, MediaAritmetica, TotAlunos, MaiorMedia = 0, MenorMedia = 11;
 
-        public static void Main(string[] args)
+        public static void Main12(string[] args)
         {
             int numeroMatricula, aulasComparecidas;
             double n1, n2, n3;
