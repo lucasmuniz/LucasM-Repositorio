@@ -45,7 +45,7 @@ namespace Avaliacoes.Medindo_Febre_07
             Console.WriteLine("Porcentagem Não Adultos: {0}%", PorcentagemNaoAdultos);
             Console.WriteLine("");
             Console.WriteLine("Porcentagem Masculinos: {0}%", PorcentagemMasculino);
-            Console.Write("Porcentagem Femininos: {0}%", PorcentagemFeminino);
+            Console.WriteLine("Porcentagem Femininos: {0}%", PorcentagemFeminino);
             Console.WriteLine("");
             Console.WriteLine("A pessoa mais alta possui: {0}m.", PessoaMaisAlta.ToString("##.##"));
             Console.WriteLine("A pessoa mais baixa possui: {0}m.", PessoaMaisBaixa.ToString("##.##"));
