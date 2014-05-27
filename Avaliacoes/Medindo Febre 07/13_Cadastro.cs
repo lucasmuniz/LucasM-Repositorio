@@ -47,7 +47,7 @@ namespace Avaliacoes.Medindo_Febre_07
             Console.WriteLine("Porcentagem Masculinos: {0}%", PorcentagemMasculino);
             Console.Write("Porcentagem Femininos: {0}%", PorcentagemFeminino);
             Console.WriteLine("");
-            Console.WriteLine("A pessoa mais altura possui: {0}m.", PessoaMaisAlta.ToString("##.##"));
+            Console.WriteLine("A pessoa mais alta possui: {0}m.", PessoaMaisAlta.ToString("##.##"));
             Console.WriteLine("A pessoa mais baixa possui: {0}m.", PessoaMaisBaixa.ToString("##.##"));
             Console.WriteLine("");
             Console.WriteLine("A idade da pessoa mais velha é: {0} anos.", MaisVelhos);
@@ -122,15 +122,18 @@ namespace Avaliacoes.Medindo_Febre_07
             for (int j = 0; j < idade.Length; j++)
             {
                 TotalPessoas++;
-                idade[j] = gerador.Next(0, 100);
+                idade[j] = gerador.Next(1, 100);
+
                 if (idade[j] < MaisNovos)
                 {
                     MaisNovos = idade[j];
                 }
+
                 if (idade[j] > MaisVelhos)
                 {
                     MaisVelhos = idade[j];
                 }
+
                 if (idade[j] >= 18)
                 {
                     adulto[j] = true;
