@@ -44,12 +44,13 @@
   <ItemGroup>
     <Compile Include="Exercicios Fixação\01_MaiorMenorArray.cs" />
     <Compile Include="Exercicios Fixação\02_MediaArray.cs" />
-    <Compile Include="Exercicios Fixação\04_TrocaElementos.cs" />
+    <Compile Include="Exercicios Fixação\03_SomaArray.cs" />
+    <Compile Include="Exercicios Fixação\05_OrdenarElementos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <Compile Include="Exercicios Fixação\03_TrocaElementosArray.cs" />
+    <Compile Include="Exercicios Fixação\04_TrocaElementosArray.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Exercicios Complementares\" />

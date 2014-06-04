@@ -2,9 +2,9 @@
 
 namespace Unidade_XI.Exercicios_Fixação
 {
-    internal class _03_TrocaElementosArray
+    internal class _04_TrocaElementosArray
     {
-        public static void Main(string[] args)
+        public static void Main04(string[] args)
         {
             /*Considere a distribuição das vagas da garagem de um condomínio. Essas vagas foram numeradas de 1 a 100 e cada vaga está associada
              * ao número do apartamento que a utilizará.
