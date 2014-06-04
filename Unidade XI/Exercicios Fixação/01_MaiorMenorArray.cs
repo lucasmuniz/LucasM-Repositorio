@@ -6,7 +6,7 @@ namespace Unidade_XI.Exercicios_Fixação
     {
         public static int pontuacaoTotal = 0;
 
-        public static void Main(string[] args)
+        public static void Main01(string[] args)
         {
             /* Crie uma pasta ou um projetoProblemas, crie um arquivo chamadoAchaMaiorOuMenor.cs.
              * Considere umarray que armazena a quantidade de pontos que uma equipe de basquete efetuou nos jogos de um campeonato.

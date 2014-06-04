@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Exercicios Fixação\01_MaiorMenorArray.cs" />
+    <Compile Include="Exercicios Fixação\02_MediaArray.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
