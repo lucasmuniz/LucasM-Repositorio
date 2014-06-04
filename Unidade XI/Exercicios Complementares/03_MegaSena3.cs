@@ -1,20 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Unidade_XI.Exercicios_Complementares
 {
-    class _03_MegaSena3
+    internal class _03_MegaSena3
     {
         public static int[] arrayMega = new int[6];
         public static Random gerador = new Random();
         public static int[] gabaritoMega = new int[6];
+
         public static void Main(string[] args)
         {
-
-            /*3) Continuando no software da mega-sena. Faça um método que Ordene do menor para o maior número. E mostre os números 
+            /*3) Continuando no software da mega-sena. Faça um método que Ordene do menor para o maior número. E mostre os números
                  sorteados da seguinte forma: [ 2 ] [34] [36] [45] [51] [59]*/
 
             GabaritoMega();
@@ -31,6 +27,7 @@ namespace Unidade_XI.Exercicios_Complementares
             }
 
             ResultadoMega();
+
             Console.ReadKey();
         }
 
@@ -56,7 +53,5 @@ namespace Unidade_XI.Exercicios_Complementares
                 gabaritoMega[i] = gerador.Next(0, 60);
             }
         }
-
     }
-    
 }
