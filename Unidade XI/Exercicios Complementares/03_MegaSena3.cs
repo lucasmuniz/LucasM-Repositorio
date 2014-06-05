@@ -33,6 +33,7 @@ namespace Unidade_XI.Exercicios_Complementares
 
         private static void ResultadoMega()
         {
+            Console.WriteLine("");
             Console.WriteLine("APOSTOU:");
             for (int i = 0; i < arrayMega.Length; i++)
             {
