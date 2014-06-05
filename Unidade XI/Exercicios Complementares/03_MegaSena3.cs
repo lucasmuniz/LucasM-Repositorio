@@ -4,15 +4,15 @@ namespace Unidade_XI.Exercicios_Complementares
 {
     internal class _03_MegaSena3
     {
+        /*3) Continuando no software da mega-sena. Faça um método que Ordene do menor para o maior número. E mostre os números
+                 sorteados da seguinte forma: [ 2 ] [34] [36] [45] [51] [59]*/
+
         public static int[] arrayMega = new int[6];
         public static Random gerador = new Random();
         public static int[] gabaritoMega = new int[6];
 
         public static void Main(string[] args)
         {
-            /*3) Continuando no software da mega-sena. Faça um método que Ordene do menor para o maior número. E mostre os números
-                 sorteados da seguinte forma: [ 2 ] [34] [36] [45] [51] [59]*/
-
             GabaritoMega();
 
             for (int i = 0; i < arrayMega.Length; i++)
