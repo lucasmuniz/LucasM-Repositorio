@@ -88,6 +88,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>LucasDB.mdf</DependentUpon>
     </Content>
+    <Content Include="Exemplos\01_ExemploJuncao.sql" />
     <Content Include="Exercicios\01_Registros.sql" />
     <Content Include="Exercicios\02_Registros.sql" />
     <Content Include="Exercicios\03_Select.sql" />
