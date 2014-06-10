@@ -88,6 +88,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>LucasDB.mdf</DependentUpon>
     </Content>
+    <Content Include="Exercicios\01_Registros.sql" />
+    <Content Include="Exercicios\02_Registros.sql" />
+    <Content Include="Exercicios\03_Select.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
