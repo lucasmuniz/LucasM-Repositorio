@@ -1,6 +1,6 @@
-﻿SELECT SUM(Altura) FROM Aluno
-SELECT SUM(Altura) FROM Aluno WHERE Aprovado ='false';
-SELECT COUNT(*) FROM Aluno;
-SELECT MAX(Altura) FROM Aluno
-SELECT MIN(Altura) FROM Aluno
-SELECT COUNT (*) FROM Aluno WHERE Aprovado='true'
+﻿SELECT SUM(Altura) as SOMA_TOTAL FROM Aluno
+SELECT SUM(Altura) as SOMA_ALTURA_REPROVADOS FROM Aluno WHERE Aprovado ='false';
+SELECT COUNT(*) as TOTAL_REGISTROS FROM Aluno;
+SELECT MAX(Altura) as MAIOR_ALTURA FROM Aluno
+SELECT MIN(Altura) as MENOR_ALTURA FROM Aluno
+SELECT COUNT (*) as APROVADOS FROM Aluno WHERE Aprovado='true'
