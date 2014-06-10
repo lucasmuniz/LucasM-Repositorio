@@ -1,0 +1,1 @@
+﻿SELECT Nome as Alunos FROM Aluno ORDER BY Aprovado DESC; --descrescente
