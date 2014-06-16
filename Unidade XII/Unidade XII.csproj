@@ -101,6 +101,7 @@
     <Content Include="Exemplos\11_SUM.sql" />
     <Content Include="Exemplos\12_AVG.sql" />
     <Content Include="Exemplos\13_TOP.SQL" />
+    <Content Include="Exemplos\14_INNERJOIN.sql" />
     <Content Include="Exercicios\01_Registros.sql" />
     <Content Include="Exercicios\02_Registros.sql" />
     <Content Include="Exercicios\03_Select.sql" />
