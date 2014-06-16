@@ -1,0 +1,1 @@
+﻿SELECT SUM(ID) FROM Aluno --SOMA TUDO OS ID

@@ -89,6 +89,17 @@
       <DependentUpon>LucasDB.mdf</DependentUpon>
     </Content>
     <Content Include="Exemplos\01_ExemploJuncao.sql" />
+    <Content Include="Exemplos\02_DROP.sql" />
+    <Content Include="Exemplos\03_COUNT.sql" />
+    <Content Include="Exemplos\04_MaxMin.sql" />
+    <Content Include="Exemplos\05_INSERT.sql" />
+    <Content Include="Exemplos\06_DELETE.sql" />
+    <Content Include="Exemplos\07_UPDATE.sql" />
+    <Content Include="Exemplos\08_BETWEEN.sql" />
+    <Content Include="Exemplos\09_LIKE.sql" />
+    <Content Include="Exemplos\10_ORDERBY.sql" />
+    <Content Include="Exemplos\11_SUM.sql" />
+    <Content Include="Exemplos\12_AVG.sql" />
     <Content Include="Exercicios\01_Registros.sql" />
     <Content Include="Exercicios\02_Registros.sql" />
     <Content Include="Exercicios\03_Select.sql" />

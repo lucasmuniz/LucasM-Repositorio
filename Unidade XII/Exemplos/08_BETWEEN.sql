@@ -1,0 +1,1 @@
+﻿SELECT * FROM Aluno WHERE Id Between 2 and 3;

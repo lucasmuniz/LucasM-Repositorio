@@ -1,0 +1,1 @@
+﻿INSERT INTO ALUNO(Nome,Telefone) values('Bastiao','99520610');

@@ -1,0 +1,1 @@
+﻿UPDATE Aluno set Nome='Alemao' where id=1;
