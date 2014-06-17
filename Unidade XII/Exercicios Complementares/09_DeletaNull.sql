@@ -1,0 +1,1 @@
+﻿DELETE FROM Funcionario where Departamento_Id is null;

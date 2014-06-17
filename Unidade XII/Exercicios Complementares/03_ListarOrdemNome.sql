@@ -1,0 +1,1 @@
+﻿SELECT PrimeiroNome,SobreNome FROM Funcionario ORDER BY PrimeiroNome;

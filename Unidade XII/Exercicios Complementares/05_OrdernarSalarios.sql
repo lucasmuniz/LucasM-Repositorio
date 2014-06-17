@@ -1,0 +1,1 @@
+﻿SELECT PrimeiroNome,Salario from Funcionario where salario>1000 Order By PrimeiroNome,SobreNome;

@@ -102,12 +102,22 @@
     <Content Include="Exemplos\12_AVG.sql" />
     <Content Include="Exemplos\13_TOP.SQL" />
     <Content Include="Exemplos\14_INNERJOIN.sql" />
-    <Content Include="Exercicios\01_Registros.sql" />
-    <Content Include="Exercicios\02_Registros.sql" />
-    <Content Include="Exercicios\03_Select.sql" />
-    <Content Include="Exercicios\04_ReprovadosAprovados.sql" />
-    <Content Include="Exercicios\05_Ordenacao.sql" />
-    <Content Include="Exercicios\06_Somatorias.sql" />
+    <Content Include="Exercicios Complementares\03_ListarOrdemNome.sql" />
+    <Content Include="Exercicios Complementares\04_OrdernarFuncao.sql" />
+    <Content Include="Exercicios Complementares\05_OrdernarSalarios.sql" />
+    <Content Include="Exercicios Complementares\06_SomaSalarios.sql" />
+    <Content Include="Exercicios Complementares\07_Departamento.sql" />
+    <Content Include="Exercicios Complementares\08_SalarioDepartamento.sql" />
+    <Content Include="Exercicios Complementares\09_DeletaNull.sql" />
+    <Content Include="Exercicios Complementares\10_Supervisor.sql" />
+    <Content Include="Exercicios Complementares\11_SalarioOrder.sql" />
+    <Content Include="Exercicios Complementares\12_LetraM.sql" />
+    <Content Include="Exercicios em Sala\01_Registros.sql" />
+    <Content Include="Exercicios em Sala\02_Registros.sql" />
+    <Content Include="Exercicios em Sala\03_Select.sql" />
+    <Content Include="Exercicios em Sala\04_ReprovadosAprovados.sql" />
+    <Content Include="Exercicios em Sala\05_Ordenacao.sql" />
+    <Content Include="Exercicios em Sala\06_Somatorias.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

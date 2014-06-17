@@ -1,0 +1,1 @@
+﻿SELECT * FROM Funcionario WHERE Salario between 500 and 1500 order by PrimeiroNome;
