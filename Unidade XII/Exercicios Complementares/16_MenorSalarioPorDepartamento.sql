@@ -1,0 +1,2 @@
+﻿-- 16)  Liste o menor salário pago pela empresa em cada departamento.
+SELECT D.Nome, MIN(F.Salario) AS MenorSalario from Funcionario as F INNER JOIN Departamento as D ON D.Id=F.Departamento_Id group by D.Nome 

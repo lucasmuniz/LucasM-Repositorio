@@ -113,6 +113,11 @@
     <Content Include="Exercicios Complementares\11_SalarioOrder.sql" />
     <Content Include="Exercicios Complementares\12_LetraM.sql" />
     <Content Include="Exercicios Complementares\13_TotalFuncionarios.sql" />
+    <Content Include="Exercicios Complementares\14_FuncionariosDepartamento.sql" />
+    <Content Include="Exercicios Complementares\15_MediaSalarial.sql" />
+    <Content Include="Exercicios Complementares\16_MenorSalarioPorDepartamento.sql" />
+    <Content Include="Exercicios Complementares\17_MaiorSalarioPorDepartamento.sql" />
+    <Content Include="Exercicios Complementares\18_OrdenacaoDepNome.sql" />
     <Content Include="Exercicios em Sala\01_Registros.sql" />
     <Content Include="Exercicios em Sala\02_Registros.sql" />
     <Content Include="Exercicios em Sala\03_Select.sql" />
