@@ -112,6 +112,7 @@
     <Content Include="Exercicios Complementares\10_Supervisor.sql" />
     <Content Include="Exercicios Complementares\11_SalarioOrder.sql" />
     <Content Include="Exercicios Complementares\12_LetraM.sql" />
+    <Content Include="Exercicios Complementares\13_TotalFuncionarios.sql" />
     <Content Include="Exercicios em Sala\01_Registros.sql" />
     <Content Include="Exercicios em Sala\02_Registros.sql" />
     <Content Include="Exercicios em Sala\03_Select.sql" />
