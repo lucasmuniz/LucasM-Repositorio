@@ -124,6 +124,7 @@
     <Content Include="Exercicios em Sala\04_ReprovadosAprovados.sql" />
     <Content Include="Exercicios em Sala\05_Ordenacao.sql" />
     <Content Include="Exercicios em Sala\06_Somatorias.sql" />
+    <Content Include="Trabalho\01_InserirAluno.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
