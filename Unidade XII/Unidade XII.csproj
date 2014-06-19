@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Trabalho\Parte Teórica\LucasGoedertMuniz.docx" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.1">
@@ -124,16 +125,16 @@
     <Content Include="Exercicios em Sala\04_ReprovadosAprovados.sql" />
     <Content Include="Exercicios em Sala\05_Ordenacao.sql" />
     <Content Include="Exercicios em Sala\06_Somatorias.sql" />
-    <Content Include="Trabalho\01_InserirAluno.sql" />
-    <Content Include="Trabalho\02_ConsultaNomeCurso.sql" />
-    <Content Include="Trabalho\03_EmailMaioresIdade.sql" />
-    <Content Include="Trabalho\04_TotalAlunos.sql" />
-    <Content Include="Trabalho\05_TotalMatriculados.sql" />
-    <Content Include="Trabalho\06_NomeMaiorIdade.sql" />
-    <Content Include="Trabalho\07_Mulheres.sql" />
-    <Content Include="Trabalho\08_Medicina.sql" />
-    <Content Include="Trabalho\09_NomeCursos.sql" />
-    <Content Include="Trabalho\10_Enunciado.sql" />
+    <Content Include="Trabalho\Códigos\01_InserirAluno.sql" />
+    <Content Include="Trabalho\Códigos\02_ConsultaNomeCurso.sql" />
+    <Content Include="Trabalho\Códigos\03_EmailMaioresIdade.sql" />
+    <Content Include="Trabalho\Códigos\04_TotalAlunos.sql" />
+    <Content Include="Trabalho\Códigos\05_TotalMatriculados.sql" />
+    <Content Include="Trabalho\Códigos\06_NomeMaiorIdade.sql" />
+    <Content Include="Trabalho\Códigos\07_Mulheres.sql" />
+    <Content Include="Trabalho\Códigos\08_Medicina.sql" />
+    <Content Include="Trabalho\Códigos\09_NomeCursos.sql" />
+    <Content Include="Trabalho\Códigos\10_Enunciado.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
