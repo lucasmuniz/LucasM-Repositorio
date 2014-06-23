@@ -19,6 +19,7 @@ namespace Unidade_XII.Exemplos.Array_List
                 myAL.Add(Convert.ToInt32(Console.ReadLine()));
 
             }
+
             Console.WriteLine("ESCREVE OS VALORES\n\n");
             foreach (int i in myAL)
             {
