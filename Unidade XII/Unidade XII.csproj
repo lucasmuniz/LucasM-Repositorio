@@ -57,6 +57,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exemplos\Array List\01_Exemplo.cs" />
+    <Compile Include="Exemplos\Array List\02_Exemplo.cs" />
+    <Compile Include="Exemplos\Array List\03_Exemplo.cs" />
+    <Compile Include="Exemplos\Array List\04_Exemplo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -89,20 +93,20 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>LucasDB.mdf</DependentUpon>
     </Content>
-    <Content Include="Exemplos\01_ExemploJuncao.sql" />
-    <Content Include="Exemplos\02_DROP.sql" />
-    <Content Include="Exemplos\03_COUNT.sql" />
-    <Content Include="Exemplos\04_MaxMin.sql" />
-    <Content Include="Exemplos\05_INSERT.sql" />
-    <Content Include="Exemplos\06_DELETE.sql" />
-    <Content Include="Exemplos\07_UPDATE.sql" />
-    <Content Include="Exemplos\08_BETWEEN.sql" />
-    <Content Include="Exemplos\09_LIKE.sql" />
-    <Content Include="Exemplos\10_ORDERBY.sql" />
-    <Content Include="Exemplos\11_SUM.sql" />
-    <Content Include="Exemplos\12_AVG.sql" />
-    <Content Include="Exemplos\13_TOP.SQL" />
-    <Content Include="Exemplos\14_INNERJOIN.sql" />
+    <Content Include="Exemplos\SQL\01_ExemploJuncao.sql" />
+    <Content Include="Exemplos\SQL\02_DROP.sql" />
+    <Content Include="Exemplos\SQL\03_COUNT.sql" />
+    <Content Include="Exemplos\SQL\04_MaxMin.sql" />
+    <Content Include="Exemplos\SQL\05_INSERT.sql" />
+    <Content Include="Exemplos\SQL\06_DELETE.sql" />
+    <Content Include="Exemplos\SQL\07_UPDATE.sql" />
+    <Content Include="Exemplos\SQL\08_BETWEEN.sql" />
+    <Content Include="Exemplos\SQL\09_LIKE.sql" />
+    <Content Include="Exemplos\SQL\10_ORDERBY.sql" />
+    <Content Include="Exemplos\SQL\11_SUM.sql" />
+    <Content Include="Exemplos\SQL\12_AVG.sql" />
+    <Content Include="Exemplos\SQL\13_TOP.SQL" />
+    <Content Include="Exemplos\SQL\14_INNERJOIN.sql" />
     <Content Include="Exercicios Complementares\03_ListarOrdemNome.sql" />
     <Content Include="Exercicios Complementares\04_OrdernarFuncao.sql" />
     <Content Include="Exercicios Complementares\05_OrdernarSalarios.sql" />
