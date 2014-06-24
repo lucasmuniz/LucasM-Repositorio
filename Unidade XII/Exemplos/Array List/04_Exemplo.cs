@@ -1,26 +1,20 @@
 ﻿using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Unidade_XII.Exemplos.Array_List
 {
-    class _04_Exemplo
+    internal class _04_Exemplo
     {
-        public static void Main(string [] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Quantos numeros deseja digitar? ");
             int tot = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Digite os valores: ");
-            
 
             ArrayList myAL = new ArrayList();
-            for (int i = 0; i<tot; i++)
+            for (int i = 0; i < tot; i++)
             {
                 myAL.Add(Convert.ToInt32(Console.ReadLine()));
-
             }
             Console.WriteLine("ESCREVE OS VALORES\n\n");
             foreach (int i in myAL)
@@ -42,7 +36,6 @@ namespace Unidade_XII.Exemplos.Array_List
             }
 
             Console.ReadKey();
-
         }
     }
 }

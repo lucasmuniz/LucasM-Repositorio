@@ -1,13 +1,9 @@
 ﻿using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Unidade_XII.Exemplos.Array_List
 {
-    class _03_Exemplo
+    internal class _03_Exemplo
     {
         public static void Main03(string[] args)
         {
@@ -17,7 +13,6 @@ namespace Unidade_XII.Exemplos.Array_List
             for (int i = 0; i < 10; i++)
             {
                 myAL.Add(Convert.ToInt32(Console.ReadLine()));
-
             }
 
             Console.WriteLine("ESCREVE OS VALORES\n\n");
@@ -40,7 +35,6 @@ namespace Unidade_XII.Exemplos.Array_List
             }
 
             Console.ReadKey();
-
         }
     }
 }

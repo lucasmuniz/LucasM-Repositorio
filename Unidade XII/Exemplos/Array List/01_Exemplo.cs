@@ -1,13 +1,9 @@
 ﻿using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Unidade_XII.Exemplos.Array_List
 {
-    class _01_Exemplo
+    internal class _01_Exemplo
     {
         public static void Main01(string[] args)
         {
@@ -20,8 +16,6 @@ namespace Unidade_XII.Exemplos.Array_List
                 Console.WriteLine(i);
             }
             Console.ReadKey();
-
-
         }
     }
 }
