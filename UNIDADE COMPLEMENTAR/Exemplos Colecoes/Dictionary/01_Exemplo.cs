@@ -8,7 +8,7 @@ namespace Unidade_XII.Exemplos.Dictionary
 {
     class _01_Exemplo
     {
-        public static void Main(string[] args)
+        public static void Main01(string[] args)
         {
             Dictionary<string, string> Matriz =new Dictionary<string, string>();
             Matriz.Add("1", "Lucas");

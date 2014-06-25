@@ -57,12 +57,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exemplos\Array List\01_Exemplo.cs" />
-    <Compile Include="Exemplos\Array List\02_Exemplo.cs" />
-    <Compile Include="Exemplos\Array List\03_Exemplo.cs" />
-    <Compile Include="Exemplos\Array List\04_Exemplo.cs" />
-    <Compile Include="Exemplos\Dictionary\01_Exemplo.cs" />
-    <Compile Include="Exemplos\List\01_Exemplo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
