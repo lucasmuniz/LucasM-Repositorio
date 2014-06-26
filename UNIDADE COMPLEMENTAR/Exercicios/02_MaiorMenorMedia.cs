@@ -13,15 +13,16 @@ namespace UNIDADE_COMPLEMENTAR.Exercicios
 
             List<double> Lista = new List<double>();
             Console.WriteLine("Digite os valores: ");
-            for (int i = 0; i < 80; i++)
+            for (int i = 0; i < 8; i++)
             {
                 Lista.Add(Convert.ToInt32(Console.ReadLine()));
             }
             Console.WriteLine("\n\n");
-            Console.WriteLine("======= RESULTADOS =======");
-            Console.WriteLine("Menor valor: {0}", Lista.Min());
-            Console.WriteLine("Maior valor: {0}", Lista.Max());
-            Console.WriteLine("Média: {0}", Lista.Average());
+            Console.WriteLine("======= RESULTADOS =======\n");
+            Console.WriteLine("Menor valor: {0}", Lista.Min());//min
+            Console.WriteLine("Maior valor: {0}", Lista.Max());//max
+            Console.WriteLine("Média: {0}", Lista.Average());  //average
+            Console.WriteLine("Soma: {0}",Lista.Sum());        //sum
             Console.ReadKey();
         }
     }

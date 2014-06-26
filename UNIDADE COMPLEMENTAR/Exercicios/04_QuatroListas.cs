@@ -20,18 +20,25 @@ namespace UNIDADE_COMPLEMENTAR.Exercicios
             _Ilist.Add(3);
             _Dictionary.Add(1, "Lucas");
 
+            Console.WriteLine("List");
             foreach (var x in _List)
             {
                 Console.WriteLine(x);
             }
+            Console.WriteLine("\n\n");
+            Console.WriteLine("Array List");
             foreach (var x in _ArrayList)
             {
                 Console.WriteLine(x);
             }
+            Console.WriteLine("\n\n");
+            Console.WriteLine("IList");
             foreach (var x in _Ilist)
             {
                 Console.WriteLine(x);
             }
+            Console.WriteLine("\n\n");
+            Console.WriteLine("Dictionary");
             foreach (var x in _Dictionary)
             {
                 Console.WriteLine(x);

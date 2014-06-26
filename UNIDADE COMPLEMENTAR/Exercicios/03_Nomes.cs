@@ -20,6 +20,7 @@ namespace UNIDADE_COMPLEMENTAR.Exercicios
                 Console.Write("Digite o nome {0}: ", i);
                 Nomes.Add(Console.ReadLine());
             }
+
             Nomes.Sort();
             Console.WriteLine("\n\n");
             Console.WriteLine("Nomes Ordenados: ");
