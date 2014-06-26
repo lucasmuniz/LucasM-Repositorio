@@ -1,18 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace UNIDADE_COMPLEMENTAR.Exercicios
 {
-    class _03_Nomes
+    internal class _03_Nomes
     {
         public static void Main03(string[] args)
         {
             /*3) Faça um programa que leia n nomes inserindo-os em uma lista de forma ordenada utilizando a ideia do
              * algoritmo da inserção. No final, o programa deve mostrar todos os nomes ordenados alfabeticamente. */
-
 
             List<string> Nomes = new List<string>();
             int contador = 0;
@@ -21,7 +17,7 @@ namespace UNIDADE_COMPLEMENTAR.Exercicios
             Console.WriteLine("\n");
             for (int i = 0; i < contador; i++)
             {
-                Console.Write("Digite o nome {0}: ",i);
+                Console.Write("Digite o nome {0}: ", i);
                 Nomes.Add(Console.ReadLine());
             }
             Nomes.Sort();
@@ -32,8 +28,6 @@ namespace UNIDADE_COMPLEMENTAR.Exercicios
                 Console.WriteLine(x);
             }
             Console.ReadKey();
-
         }
-         
     }
 }

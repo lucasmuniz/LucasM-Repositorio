@@ -1,17 +1,14 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace UNIDADE_COMPLEMENTAR.Exercicios
 {
-    class _04_QuatroListas
+    internal class _04_QuatroListas
     {
         public static void Main04(string[] args)
         {
-            /*4) Faça 4 listas com diferentes coleções, List, ArrayList, IList, Dictionary. Adicione dados em cada uma delas e no 
+            /*4) Faça 4 listas com diferentes coleções, List, ArrayList, IList, Dictionary. Adicione dados em cada uma delas e no
              * final liste-os*/
 
             List<int> _List = new List<int>();

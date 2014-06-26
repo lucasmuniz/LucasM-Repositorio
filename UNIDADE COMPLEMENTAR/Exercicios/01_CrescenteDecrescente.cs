@@ -1,12 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace UNIDADE_COMPLEMENTAR.Exercicios
 {
-    class _01_CrescenteDecrescente
+    internal class _01_CrescenteDecrescente
     {
         public static void Main01(string[] args)
         {
@@ -23,15 +20,14 @@ namespace UNIDADE_COMPLEMENTAR.Exercicios
             Console.WriteLine("==== LISTA CRESCENTE ===\n"); //sort
             foreach (int x in list)
             {
-               
-                Console.Write(x+" ");
+                Console.Write(x + " ");
             }
             Console.WriteLine("\n\n");
             list.Reverse();
             Console.WriteLine("==== LISTA DECRESCENTE ===\n"); //reverse
-            foreach(int x in list)
+            foreach (int x in list)
             {
-                Console.Write(x+" ");
+                Console.Write(x + " ");
             }
 
             Console.ReadKey();
