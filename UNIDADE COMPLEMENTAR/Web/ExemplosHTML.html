@@ -1,0 +1,183 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+
+    <!--TÍTULO NA ABA-->
+    <title>CURSO NDDIGITAL !</title>
+
+   <!--IMAGEM NA ABA DO NAVEGADOR-->
+    <link rel="SHORTCUT ICON" href="img/hommerIco.ico">
+
+</head>
+<body>
+
+    <!--TÍTULOS-->
+    <h1>HOMMER !</h1>
+    <h3>HOMMER !</h3>
+    <h5>HOMMER !</h5>
+
+    <!--IMAGEM-->
+    <img src="img/hommer.png" alt="ImagemDoHOMMER" />
+
+    <!--PARÁGRAFROS-->
+    <p>Oi eu sou o HOMMER</p>
+
+    <!--OL(NUMERA) e LI-->
+    <br />
+    <ol>
+        <li>ol Um</li>
+        <li>ol Dois</li>
+        <li>ol Três</li>
+        <li>ol Quatro</li>
+    </ol>
+
+
+    <!--UL(MARCAÇÕES) e LI-->
+    <br />
+    <ul>
+        <li>ul Um</li>
+        <li>ul Dois</li>
+        <li>ul Três</li>
+        <li>ul Quatro</li>
+    </ul>
+    <br />
+
+    <!--LINKS-->
+    <a href="http://www.google.com">Site do Google</a>
+    <br />
+
+                <!-----------------------------------------------TABLE----------------------------------------->
+
+    <!--TABLE-->
+    <table border="1">
+        <!--USANDO TH (NEGRITO)-->
+        <tr>
+            <th>Célula 1 </th>
+            <th>Célula 2 </th>
+        </tr>
+        <!--USANDO TD-->
+        <tr>
+            <td>Célula 1  </td>
+            <td>Célula 1  </td>
+        </tr>
+    </table>
+    <br>
+
+    <!--TABLE COM COLSPAN-->
+    <table border="1">
+
+        <tr>
+            <th colspan="2">Célula 1 </th>
+            <th>Célula 2 </th>
+        </tr>
+
+        <tr>
+            <td>Célula 1  </td>
+            <td>Célula 1  </td>
+        </tr>
+    </table>
+    <br />
+
+    <!--TABLE COM ROWSPAN-->
+    <table border="1">
+
+        <tr>
+            <th>Coluna 1 </th>
+            <th>Coluna 2 </th>
+        </tr>
+        <tr>
+            <td rowspan="2">Célula 1</td>
+            <td>Célula 2</td>
+        </tr>
+
+        <tr>
+            <td>Célula 3 </td>
+
+        </tr>
+    </table>
+    <br />
+    <!--------------------------------------------------------------------------------------------------------------------->
+
+
+                 <!-------------------------------------------FORM (FORMULÁRIO)---------------------------->
+
+
+    <!--INPUT LABEL E SELECT-->
+    <form> 
+        <fieldset>
+            <legend>Agrupamento</legend>
+        </fieldset>
+
+        <label>Nome: </label>
+        <input type="text" value="Lucas" />
+        <br />
+
+        <label>Senha:</label>
+        <input type="password" value="Lucas" />
+        <br />
+
+        <label>Arquivo: </label>
+        <input type="file" accept=".cs" />
+        <br />
+
+        <input type="radio" name="Masculino" value="true" />
+        <input type="checkbox" />
+
+        <label>E-mail:</label>
+        <input type="email"required />
+        <br />
+
+        <label>Selecione a Cor:</label>
+        <input type="color" />
+        <br />
+
+        <textarea rows="2" cols="30">Comentários</textarea>
+        <br />
+
+        <select>
+            <optgroup label="Grupo 1">
+                <option>Um</option>
+                <option>Dois</option>
+                <option>Três</option>
+            </optgroup>
+
+            <optgroup label="Grupo 2">
+                <option>Quatro</option>
+                <option>Cinco</option>
+                <option>Seis</option>
+            </optgroup>
+        </select>
+        <br />
+
+        <button>Salvar</button>
+        <br />
+    </form>
+
+
+    <!--METHOD GET-->
+    <br />
+    <form action="" method="get">
+        First Name: <input type="text" name="fname" /><br />
+        Last Name: <input type="text" name="name" /><br />
+        <input type="submit" value="Submit" />
+    </form>
+
+
+    <!--METHOD POST-->
+    <br />
+    <form action="" method="post">
+        First Name: <input type="text" name="fname" /><br />
+        Last Name: <input type="text" name="name" /><br />
+        <input type="submit" value="Submit" />
+    </form>
+
+    <!--------------------------------------------------------------------------------------------------------------------->
+</body>
+
+</html>
+<!--RODAPÉ-->
+<footer>
+    <small>Lucas Muniz!</small>
+</footer>
