@@ -42,12 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exemplos Colecoes\Array List\01_Exemplo.cs" />
-    <Compile Include="Exemplos Colecoes\Array List\02_Exemplo.cs" />
-    <Compile Include="Exemplos Colecoes\Array List\03_Exemplo.cs" />
-    <Compile Include="Exemplos Colecoes\Array List\04_Exemplo.cs" />
-    <Compile Include="Exemplos Colecoes\Dictionary\01_Exemplo.cs" />
-    <Compile Include="Exemplos Colecoes\List\01_Exemplo.cs" />
+    <Compile Include="Exemplos Coleções\Array List\01_Exemplo.cs" />
+    <Compile Include="Exemplos Coleções\Array List\02_Exemplo.cs" />
+    <Compile Include="Exemplos Coleções\Array List\03_Exemplo.cs" />
+    <Compile Include="Exemplos Coleções\Array List\04_Exemplo.cs" />
+    <Compile Include="Exemplos Coleções\Dictionary\01_Exemplo.cs" />
+    <Compile Include="Exemplos Coleções\List\01_Exemplo.cs" />
     <Compile Include="Exercicios\01_CrescenteDecrescente.cs" />
     <Compile Include="Exercicios\02_MaiorMenorMedia.cs" />
     <Compile Include="Exercicios\03_Nomes.cs" />
