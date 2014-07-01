@@ -1,6 +1,8 @@
 h2 {
     color: blue;
     text-align: center;
+    text-transform: uppercase;
+    font-family: 'Comic Sans MS';
 }
 
 .label {
@@ -9,14 +11,21 @@ h2 {
 }
 
 body {
+    height: 1000px;
+    background: linear-gradient(to top, rgba(255,0,0,0), rgba(255,0,0,1)); /* Standard syntax (must be last)*/
     text-align: center;
-    background-color: #808080;
-    background-image:url(../img/hommer.png);
-    
+    /*background-image: url(../img/hommer.png);
+    background-repeat: no-repeat;
+    background-position: 470px 350px;*/
 }
 
 p.blue {
     color: blue;
-    font-size:50pt;
-    margin-left:20px;
+    font-size: 50pt;
+    margin-left: 20px;
+    font-weight: 500;
+    font-family: 'Comic Sans MS';
+    border-style: inset;
+    border-width: 10px;
+    border-color: black;
 }
