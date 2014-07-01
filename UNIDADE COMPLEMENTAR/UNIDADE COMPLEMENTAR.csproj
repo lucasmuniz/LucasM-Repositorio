@@ -59,8 +59,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Web\ExemplosHTML.html" />
+    <Content Include="Web\CSS\CSS.css" />
+    <Content Include="Web\HTML\ExemplosCSS.html" />
+    <Content Include="Web\HTML\ExemplosHTML.html" />
+    <Content Include="Web\img\hommer.png" />
+    <Content Include="Web\img\hommerIco.ico" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
