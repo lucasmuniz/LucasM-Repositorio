@@ -45,20 +45,23 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Primeira Fase\Materiais\Introdulção Desenvolvimento de WEB.pdf" />
-    <None Include="Primeira Fase\Materiais\Resumo - TAGs.pdf" />
-    <None Include="Primeira Fase\Materiais\Trabalho - Formulário 04.06.pdf" />
+    <None Include="Primeira Fase\Materiais\Introdulcao Desenvolvimento de WEB.pdf" />
+    <None Include="Primeira Fase\Materiais\Resumo de TAGs.pdf" />
+    <None Include="Primeira Fase\Materiais\Trabalho - Formulário 04.06.14.pdf" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Primeira Fase\Exemplos HTML 5\01_PrimeiroProjeto.htm" />
-    <Content Include="Primeira Fase\Exemplos HTML 5\02_UsandoTítulos.htm" />
+    <Folder Include="Primeira Fase\Exercicios Entrega\Formulário\css\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Primeira Fase\Exemplos HTML 5\01_PrimeiroProject.htm" />
+    <Content Include="Primeira Fase\Exemplos HTML 5\02_UsandoTítulo.htm" />
     <Content Include="Primeira Fase\Exemplos HTML 5\03_UsandoCaracter.htm" />
     <Content Include="Primeira Fase\Exemplos HTML 5\04_UsandoFormatoTexto.htm" />
     <Content Include="Primeira Fase\Exemplos HTML 5\05_UsandoCitações.htm" />
     <Content Include="Primeira Fase\Exemplos HTML 5\06_UsandoDefinição.htm" />
     <Content Include="Primeira Fase\Exemplos HTML 5\07_UsandoHora.htm" />
     <Content Include="Primeira Fase\Exemplos HTML 5\08_UsandoLista.htm" />
-    <Content Include="Primeira Fase\Exemplos HTML 5\09_UsandoLinks.html" />
+    <Content Include="Primeira Fase\Exemplos HTML 5\09_UsandoLink.html" />
     <Content Include="Primeira Fase\Exemplos HTML 5\10_UsandoTabelas.html" />
     <Content Include="Primeira Fase\Exemplos HTML 5\Imagens\MXLomw2.gif" />
     <Content Include="Primeira Fase\Exemplos HTML 5\Imagens\pintura-em-tela-a-oleo-paisagem-ponte-1.png" />
@@ -70,37 +73,34 @@
     <Content Include="Primeira Fase\Exercicios Entrega\Formulário\6_concluir.html" />
     <Content Include="Primeira Fase\Exercicios Entrega\Formulário\img\logoCV.jpg" />
     <Content Include="Primeira Fase\Exercicios Entrega\Formulário\img\sucesso.jpeg" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\1_pessoal.html" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\2_escolaridade.html" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\3_linguas.html" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\4_historico.html" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\5_complementares.html" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\6_concluir.html" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\css\estilo.css" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Enviar.png" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Icon1.gif" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Icone1.jpg" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Icone2.jpg" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Icone3.jpg" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Maquina2.jpg" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Maquina2.png" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Maquina3.jpg" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Maquina4.jpg" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\msn.png" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\polisac.png" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\qualidade.png" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\Index.html" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\1_pessoal.html" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\2_escolaridade.html" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\3_linguas.html" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\4_historico.html" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\5_complementares.html" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\6_concluir.html" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\img\logoCV.jpg" />
-    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\img\sucesso.jpeg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Primeira Fase\Exercicios Entrega\Formulário\css\" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\1_pessoal.html" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\2_escolaridade.html" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\3_linguas.html" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\4_historico.html" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\5_complementares.html" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\6_concluir.html" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\css\estilo.css" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\Enviar.png" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\Icon1.gif" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\Icone1.jpg" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\Icone2.jpg" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\Icone3.jpg" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\Maquina2.jpg" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\Maquina2.png" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\Maquina3.jpg" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\Maquina4.jpg" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\msn.png" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\polisac.png" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\qualidade.png" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\Index.html" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário sem CSS\1_pessoal.html" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário sem CSS\2_escolaridade.html" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário sem CSS\3_linguas.html" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário sem CSS\4_historico.html" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário sem CSS\5_complementares.html" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário sem CSS\6_concluir.html" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário sem CSS\img\logoCV.jpg" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário sem CSS\img\sucesso.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
