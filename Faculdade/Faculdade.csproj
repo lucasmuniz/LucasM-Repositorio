@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{392D34A2-E8DD-4F5A-813B-A9328B5F1280}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Faculdade</RootNamespace>
+    <AssemblyName>Faculdade</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Primeira Fase\Materiais\Introdulção Desenvolvimento de WEB.pdf" />
+    <None Include="Primeira Fase\Materiais\Resumo - TAGs.pdf" />
+    <None Include="Primeira Fase\Materiais\Trabalho - Formulário 04.06.pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Primeira Fase\Exemplos HTML 5\01_PrimeiroProjeto.htm" />
+    <Content Include="Primeira Fase\Exemplos HTML 5\02_UsandoTítulos.htm" />
+    <Content Include="Primeira Fase\Exemplos HTML 5\03_UsandoCaracter.htm" />
+    <Content Include="Primeira Fase\Exemplos HTML 5\04_UsandoFormatoTexto.htm" />
+    <Content Include="Primeira Fase\Exemplos HTML 5\05_UsandoCitações.htm" />
+    <Content Include="Primeira Fase\Exemplos HTML 5\06_UsandoDefinição.htm" />
+    <Content Include="Primeira Fase\Exemplos HTML 5\07_UsandoHora.htm" />
+    <Content Include="Primeira Fase\Exemplos HTML 5\08_UsandoLista.htm" />
+    <Content Include="Primeira Fase\Exemplos HTML 5\09_UsandoLinks.html" />
+    <Content Include="Primeira Fase\Exemplos HTML 5\10_UsandoTabelas.html" />
+    <Content Include="Primeira Fase\Exemplos HTML 5\Imagens\MXLomw2.gif" />
+    <Content Include="Primeira Fase\Exemplos HTML 5\Imagens\pintura-em-tela-a-oleo-paisagem-ponte-1.png" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Formulário\1_pessoal.html" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Formulário\2_escolaridade.html" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Formulário\3_linguas.html" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Formulário\4_historico.html" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Formulário\5_complementares.html" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Formulário\6_concluir.html" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Formulário\img\logoCV.jpg" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Formulário\img\sucesso.jpeg" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\1_pessoal.html" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\2_escolaridade.html" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\3_linguas.html" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\4_historico.html" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\5_complementares.html" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\6_concluir.html" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\css\estilo.css" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Enviar.png" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Icon1.gif" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Icone1.jpg" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Icone2.jpg" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Icone3.jpg" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Maquina2.jpg" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Maquina2.png" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Maquina3.jpg" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\Maquina4.jpg" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\msn.png" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\polisac.png" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\img\qualidade.png" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário com CSS\Index.html" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\1_pessoal.html" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\2_escolaridade.html" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\3_linguas.html" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\4_historico.html" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\5_complementares.html" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\6_concluir.html" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\img\logoCV.jpg" />
+    <Content Include="Primeira Fase\Exercícios\Formulário\Formulário sem CSS\img\sucesso.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Primeira Fase\Exercicios Entrega\Formulário\css\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

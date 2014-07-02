@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Cadastro de Currículo</title>
+        <meta charset="utf-8">
+
+        <meta name="keywords" content="HTML 5, WEB">
+    </head>
+    <body>
+
+        <header>
+            <img src="img/logoCV.jpg" alt="Logo Tipo da pagina">
+
+            <nav>
+                <ul>
+                    <li><a href="1_pessoal.html">Dados Pessoais</a></li>
+                    <li><a href="2_escolaridade.html">Escolares</a></li>
+                    <li><a href="3_linguas.html">Conhecimentos em Línguas e Informática</a></li>
+                    <li><a href="4_historico.html">Histórico Profissional</a></li>
+                    <li><a href="5_complementares.html">Informações complementares</a></li>
+                </ul>
+            </nav>
+
+        </header>
+
+
+
+        <section>
+            <h1>Currículo</h1>
+            <h2>Passo 1: Dados Pessoais</h2>
+
+            <!--INICIO DO FORMULARIO-->
+            <form action="2_escolaridade.html">
+                <fieldset> <!--FIELDSET É A TABELINHA-->
+                    <legend>Preencha corretamente os dados pessoais: </legend>
+                    <label>*Nome: </label>
+                    <input type="text" name="Nome" placeholder="Digite seu nome aqui" required>
+                    <br>
+
+                    <label>*E-Mail: </label>
+                    <input type="email" name="E-Mail" placeholder="Digite seu E-Mail aqui" required>
+                    <br>
+
+                    <label>*Data de nascimento</label>
+                    <input type="date" name="data_nascimento" required>
+                    <br>
+
+                    <label>*Endereço: </label>
+                    <input type="text" name="Endereço" placeholder="Digite seu endereço aqui" required>
+                    <br>
+
+                    <label>Complemento: </label>
+                    <input type="text" name="Complemento"  >
+                    <br>
+
+                    <label>*Bairro: </label>
+                    <input type="text" name="Bairro" placeholder="Digite seu bairro aqui" required>
+                    <br>
+
+                    <label>*Município: </label>
+                    <input type="text" name="Município" placeholder="Digite seu município aqui" required>
+                    <br>
+
+                    <label>Estado:</label>
+                    <select name="estado">
+                        <option value="PR" >Paraná</option>
+                        <option value="RS" >Rio Grande do Sul</option>
+                        <option value="SC" selected>Santa Catarina</option>
+                    </select>
+
+                    <br>
+                    <label>*CEP: </label>
+                    <input type="text" name="cep" pattern="[0-9]{5}-[0-9]{3} " required>
+					<label>Modelo: 00000-000</label>
+                    <br>
+                    <label>Sexo: </label>
+                    <input type="radio" value="F" name="sexo"> Feminino
+                    <input type="radio" value="F" name="sexo" checked=""> Masculino
+                </fieldset>
+                <small>* Obrigatório preenchimento</small><br><br>
+                <input type="submit" value="Salvar e continuar >>">
+            </form>
+
+            <br>
+
+        </section>
+
+
+        <footer>
+            <p>2014. HTML 5.</p>
+            <small>Criado por Lucas Goedert Muniz</small>
+
+        </footer>
+
+    </body>
+</html>

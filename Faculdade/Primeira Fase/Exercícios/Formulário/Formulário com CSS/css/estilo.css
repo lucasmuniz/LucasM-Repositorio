@@ -1,0 +1,113 @@
+body {
+    background-color: #E0FFFF;
+    font-family: 'Open Sans', 'sans-serif';
+    color: #333333;
+    font-weight: 400; /*peso da fonte*/
+    font-size: 12pt; /*tamanho*/
+}
+
+h1, h2, h3, h5, h6 {
+    color: #444;
+    font-weight: 800;
+}
+
+a {
+    color: #0090c5;
+    text-decoration: underline; /*sublinhado*/
+}
+
+    a:hover {
+        text-decoration: none; /*quando passa o mouse sai o sublinhada*/
+    }
+
+/****** AREAS ******/
+header {
+    background: #C0D9D9;
+    padding: 4em 1em 0.6em 2em; /* T - R - B - L*/
+    text-align: center;
+}
+
+footer {
+    background: #C0D9D9;
+    color: #333333;
+    padding: 0.1em 1em 2em 2em; /* T - R - B - L*/
+    text-align: center;
+    font-family: 'Arial';
+}
+
+/********** MENU *********/
+#nav {
+    background-color: #282828;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    font-family: 'Tahoma';
+}
+
+    #nav li {
+        display: inline-block;
+        margin-right: 25px; /*espaço entre os itens*/
+    }
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#nav a:hover {
+    color: #e8eef4;
+    text-decoration: none;
+}
+
+#curri {
+    font-weight: 800;
+    color: #0000CD;
+    font-family: 'Comic-Sans';
+}
+
+/**** FORMULARIO*****/
+label {
+    background-color: #C0D9D9;
+    width: 250px;
+    height: 20px;
+    float: left;
+    display: block;
+}
+
+input, select, textarea {
+    color: #7c8081;
+    font-family: 'Lato',sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 1.5em;
+}
+
+#Bodyy {
+    text-align: center;
+}
+
+#conteudo {
+    width: 33.3%;
+    float: left;
+    font-family: 'FangSong';
+}
+
+#Titulo {
+    color: #0000CD;
+    font-family: 'Comic-Sans';
+    font-weight: 800;
+}
+
+#LinksMaquinas {
+    padding: 4em 1em 0em 2em; /* T - R - B - L*/
+}
+
+#Espaco {
+    padding: 0em 1em 2em 2em;
+}
+
+#Index {
+    border: 0px;
+}
