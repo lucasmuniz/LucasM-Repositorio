@@ -15,6 +15,7 @@ namespace Unidade_XII.Exemplos.Array_List
             {
                 Console.WriteLine(i);
             }
+
             Console.ReadKey();
         }
     }
