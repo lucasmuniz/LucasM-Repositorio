@@ -47,7 +47,7 @@
     <None Include="App.config" />
     <None Include="Primeira Fase\Materiais\Introdulcao Desenvolvimento de WEB.pdf" />
     <None Include="Primeira Fase\Materiais\Resumo de TAGs.pdf" />
-    <None Include="Primeira Fase\Materiais\Trabalho - Formulário 04.06.14.pdf" />
+    <None Include="Primeira Fase\Materiais\Trabalhos\Trabalho - Formulário 04.06.14.pdf" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Primeira Fase\Exercicios Entrega\Formulário\css\" />
