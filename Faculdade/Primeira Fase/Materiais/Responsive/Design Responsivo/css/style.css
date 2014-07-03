@@ -1,0 +1,106 @@
+/* ==========================================================================
+   Normalização CSS
+   ========================================================================== */
+body {
+    font-size: 62.5%; /*Tamanho da letra em relacao ao tamanho da tela */
+    line-height: 1.5; /*Peso do text*/
+    font-family: "Helvetica Neue",Arial,sans-serif;
+    color: #444;
+}
+
+a {
+    color: #00ccff;
+    text-decoration: none;
+    font-size: 1.6em;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+img, picture, video, embed {
+    max-width: 100%;
+}
+
+/* ===== Estilos Principais ================================================== */
+
+.container {
+    max-width: 1128px;
+    margin: 0 auto; /*centralizar*/
+}
+
+.header {
+    width: 100%; /*largura da div*/
+    height: 48px; /*altura da div*/
+    margin-top: 3.6em;
+    margin-bottom: 3.6em;
+}
+
+.logo { /*jogar o menu do lado do logo*/
+    float: left;
+}
+
+.menu {
+    float: right;
+    
+}
+
+    .menu li {
+        margin-left: 2em;
+        display: inline-block; /*faz o menu ficar um item do lado do outro*/
+        
+    }
+
+.coluna {
+    width: 23.404%; /*264px -1128*/
+    float: left;
+    margin-right: 1%;
+}
+
+.footer {
+    clear: both; /*nao flutuar*/
+}
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media screen and (max-width: 1128px) {
+}
+
+@media screen and (max-width: 768px) {
+    .coluna {
+        width: 43%; /*264px -1128*/
+        float: left;
+        margin-right: 1%;
+    }
+}
+
+
+@media screen and (max-width: 718px) {
+}
+
+@media screen and (max-width: 640px) {
+       .coluna {
+        width: 100%; /*264px -1128*/     
+    }
+      
+}
+
+
+@media screen and (max-width: 520px) {
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
