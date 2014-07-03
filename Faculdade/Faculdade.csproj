@@ -73,6 +73,18 @@
     <Content Include="Primeira Fase\Exercicios Entrega\Formulário\6_concluir.html" />
     <Content Include="Primeira Fase\Exercicios Entrega\Formulário\img\logoCV.jpg" />
     <Content Include="Primeira Fase\Exercicios Entrega\Formulário\img\sucesso.jpeg" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Tecnologia\Site Tecnológico\css\estilo.css" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Tecnologia\Site Tecnológico\img\engrena.ico" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Tecnologia\Site Tecnológico\img\Icon1.gif" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Tecnologia\Site Tecnológico\img\Icone1.jpg" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Tecnologia\Site Tecnológico\img\Icone2.jpg" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Tecnologia\Site Tecnológico\img\Icone3.jpg" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Tecnologia\Site Tecnológico\img\Maquina2.jpg" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Tecnologia\Site Tecnológico\img\Maquina2.png" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Tecnologia\Site Tecnológico\img\Maquina3.jpg" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Tecnologia\Site Tecnológico\img\Maquina4.jpg" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Tecnologia\Site Tecnológico\img\polisac.png" />
+    <Content Include="Primeira Fase\Exercicios Entrega\Tecnologia\Site Tecnológico\Index.html" />
     <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\1_pessoal.html" />
     <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\2_escolaridade.html" />
     <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\3_linguas.html" />
@@ -80,6 +92,7 @@
     <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\5_complementares.html" />
     <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\6_concluir.html" />
     <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\css\estilo.css" />
+    <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\engrena.ico" />
     <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\Enviar.png" />
     <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\Icon1.gif" />
     <Content Include="Primeira Fase\Exercicios\Formulário\Formulário com CSS\img\Icone1.jpg" />
