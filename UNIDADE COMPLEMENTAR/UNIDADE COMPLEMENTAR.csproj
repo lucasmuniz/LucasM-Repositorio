@@ -42,17 +42,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exemplos Coleções\Array List\01_Exemplo.cs" />
-    <Compile Include="Exemplos Coleções\Array List\02_Exemplo.cs" />
-    <Compile Include="Exemplos Coleções\Array List\03_Exemplo.cs" />
-    <Compile Include="Exemplos Coleções\Array List\04_Exemplo.cs" />
-    <Compile Include="Exemplos Coleções\Dictionary\01_Exemplo.cs" />
-    <Compile Include="Exemplos Coleções\List\01_Exemplo.cs" />
-    <Compile Include="Exercicios\01_CrescenteDecrescente.cs" />
-    <Compile Include="Exercicios\02_MaiorMenorMedia.cs" />
-    <Compile Include="Exercicios\03_Nomes.cs" />
-    <Compile Include="Exercicios\04_QuatroListas.cs" />
-    <Compile Include="Exercicios\05_Times.cs" />
+    <Compile Include="Exemplos Coleções\Array List\_01_Exemplo.cs" />
+    <Compile Include="Exemplos Coleções\Array List\_02_Exemplo.cs" />
+    <Compile Include="Exemplos Coleções\Array List\_03_Exemplo.cs" />
+    <Compile Include="Exemplos Coleções\Array List\_04_Exemplo.cs" />
+    <Compile Include="Exemplos Coleções\Dictionary\_01_Exemplo.cs" />
+    <Compile Include="Exemplos Coleções\List\_01_Exemplo.cs" />
+    <Compile Include="Exercicios\_01_CrescenteDecrescente.cs" />
+    <Compile Include="Exercicios\_02_MaiorMenorMedia.cs" />
+    <Compile Include="Exercicios\_03_Nomes.cs" />
+    <Compile Include="Exercicios\_04_QuatroListas.cs" />
+    <Compile Include="Exercicios\_05_Times.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
